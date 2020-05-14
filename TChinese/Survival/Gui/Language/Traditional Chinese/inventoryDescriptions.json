@@ -109,10 +109,10 @@
 		"title": "彩繪牆方塊"
 	},
 	"4aa2a6f0-65a4-42e3-bf96-7dec62570e0b": {
-		"title": "網狀方塊"
+		"title": "鐵網方塊"
 	},
 	"3d0b7a6e-5b40-474c-bbaf-efaa54890e6a": {
-		"title": "結實網狀方塊"
+		"title": "堅固鐵網方塊"
 	},
 	"ea6864db-bb4f-4a89-b9ec-977849b6713a": {
 		"title": "打孔鋼製方塊"
@@ -281,39 +281,39 @@
 		"description": "裝填你的噴漆工具，並為你\n的作品賦予一些顏色"
 	},
 	"3a3280e4-03b6-4a4d-9e02-e348478213c9": {
-		"title": "螢光棒",
-		"description": "Throw them at night or other dark places to see things better"
+		"title": "螢光藥劑",
+		"description": "在夜晚或其它黑暗的地方丟\n出它們，可以看的更清楚"
 	},
 	"9a3e478c-2224-44fa-887c-239965bd05ad": {
 		"title": "泥土袋",
-		"description": "在地上使用它們，來規劃耕種區"
+		"description": "在地上使用它們，來規劃耕\n種區"
 	},
 	"056e5ff1-f030-40df-946a-b830bf494c92": {
-		"title": "Gas Container",
-		"description": "Can stores more gas and loads gas in to Gas Engines and other interactive parts that require Gas when connected"
+		"title": "油箱",
+		"description": "可儲存更多的汽油，並為燃\n氣引擎或其它已連接的互動\n零件供應燃料。"
 	},
 	"ea10d1af-b97a-46fb-8895-dfd1becb53bb": {
-		"title": "Water Container",
-		"description": "Connect it to a Vacuum Pump that is under water to fil the Water Container with water"
+		"title": "水箱",
+		"description": "將水箱與在水中的真空幫浦\n連接可以裝水"
 	},
 	"76331bbf-abbd-4b8d-bb54-f721a5b6193b": {
-		"title": "Fertilizer Container",
-		"description": "Place furtilizer and connect it to a Vacuum Pump with a trigger to shoot furtilizer on to plants"
+		"title": "肥料箱",
+		"description": "放入肥料，並將它與有觸發\n器的真空管道連接，可以將\n肥料射向植物"
 	},
 	"da4833fd-f981-4e08-a9f7-48e630a7c146": {
-		"title": "Battery Container",
-		"description": "Can Store more batteries and loads batteries in to Electric Engines and other interactive parts that require batteries when connected"
+		"title": "電瓶",
+		"description": "可儲存更多的電池，並為電\n動引擎或其它已連接的互動\n零件供應電力。"
 	},
 	"096d4daf-639e-4947-a1a6-1890eaa94464": {
-		"title": "Potato Ammo Container",
-		"description": "Connect it to a Moutable Spud Gun with a trigger to shoot potato ammo"
+		"title": "馬鈴薯彈藥箱",
+		"description": "將彈藥箱連接到一個有觸發\n器的可安裝洋芋槍可以射出\n馬鈴薯"
 	},
 	"38ec258d-c644-4f08-8635-3f7434c884dd": {
 		"title": "種子容器",
-		"description": "Place Seeds and connect it to a Vacuum Pump with a trigger to shoot seeds in to soil"
+		"description": "放入種子，並將它與有觸發\n器的真空管道連接，可以將\n種子射向農地"
 	},
 	"be29592a-ef58-4b1d-b18c-895023abd27f": {
-		"title": "Chemical Container"
+		"title": "化學容器"
 	},
 	"ad35f7e6-af8f-40fa-aef4-77d827ac8a8a": {
 		"title": "箱子《大》",
@@ -686,88 +686,88 @@
 		"title": "空調機"
 	},
 	"bbc5cc77-443d-4aa7-a175-ebdeb09c2df3": {
-		"title": "短水管"
+		"title": "鐵管《短》"
 	},
 	"07232236-22eb-4912-8774-ab185f368bb9": {
-		"title": "長水管"
+		"title": "鐵管《長》"
 	},
 	"4f1c0036-389b-432e-81de-8261cb9f9d57": {
-		"title": "彎水管"
+		"title": "鐵管《彎角》"
 	},
 	"9f37d9e9-be8d-49c8-a7ac-e59c67786083": {
-		"title": "三通水管接頭"
+		"title": "鐵管《三向》"
 	},
 	"04782466-eca1-4ed9-8502-036ea269aed9": {
 		"title": "閥門"
 	},
 	"862f6857-3050-4a84-8191-6a7cbb50bd1a": {
-		"title": "短水管《大》"
+		"title": "粗鐵管《短》"
 	},
 	"53e8478f-517f-4ea0-be9c-f4a357400cc1": {
-		"title": "長水管《大》"
+		"title": "粗鐵管《長》"
 	},
 	"17153a0e-8461-442f-b172-3a899c1ae99f": {
-		"title": "彎水管《大》"
+		"title": "粗鐵管《彎角》"
 	},
 	"08918d4d-29e6-427d-ad8c-1eafcc4af1f9": {
-		"title": "水管接頭《大》"
+		"title": "粗鐵管《 T 型》"
 	},
 	"6be64f78-927b-4f61-b645-20adfbd9bfce": {
-		"title": "短電線"
+		"title": "電線《短》"
 	},
 	"0535b90e-f0a8-491c-8c70-1fc81b939fb4": {
-		"title": "長電線"
+		"title": "電線《長》"
 	},
 	"33102836-a94d-4ab3-9864-3d54d32c230d": {
-		"title": "彎電線"
+		"title": "電線《彎角》"
 	},
 	"f0713386-8c95-493d-b013-e8e53e32d1ed": {
-		"title": "凸電線"
+		"title": "電線《外凸》"
 	},
 	"a8164438-65fa-4840-8bc2-766fad543841": {
-		"title": "凹電線"
+		"title": "電線《內凹》"
 	},
 	"697e3b80-d3f7-4f4a-aba2-23611a45f967": {
 		"title": "保險絲電箱"
 	},
 	"647296c4-41ef-4173-8a54-d2a1ae1e89c3": {
-		"title": "短管道"
+		"title": "管道《短》"
 	},
 	"2ba72fca-443a-49e4-8eb2-073c4226866e": {
-		"title": "長管道"
+		"title": "管道《長》"
 	},
 	"903b0823-4ce1-48e6-9702-aeaa7598c347": {
-		"title": "彎管道"
+		"title": "管道《彎角》"
 	},
 	"885ab381-007d-4a60-99e3-c58dec54c880": {
-		"title": "管道接頭"
+		"title": "管道節點"
 	},
 	"0dba257b-b907-4919-baaf-2fefe19f4e24": {
-		"title": "短水管《小》"
+		"title": "細鐵管《短》"
 	},
 	"927d80d8-84ee-44f0-9d8b-cb7a688e0b6c": {
-		"title": "長水管《小》"
+		"title": "細鐵管《長》"
 	},
 	"8024db09-9147-4fe3-a747-00bc30ab724b": {
-		"title": "彎水管《小》"
+		"title": "細鐵管《彎角》"
 	},
 	"e1273b8a-945b-4080-81eb-cbf79961cccb": {
-		"title": "三通水管接頭《小》"
+		"title": "細鐵管《 T 型》"
 	},
 	"203fdf06-b311-49fd-933d-a1c6b671a017": {
-		"title": "三通水管《小》"
+		"title": "細鐵管《三向》"
 	},
 	"387095d6-5aba-45e3-abd0-098710c268f8": {
-		"title": "四通水管《小》"
+		"title": "細鐵管《十字》"
 	},
 	"5a106512-9284-40de-be68-2c186e903097": {
-		"title": "四通水管接頭《小》"
+		"title": "細鐵管《四向》"
 	},
 	"c6ebae46-8e69-4ddd-a3c0-895d887027bd": {
-		"title": "五通水管《小》"
+		"title": "細鐵管《五向》"
 	},
 	"9c6d8dba-1783-4c42-8a02-6af1c5d63ec6": {
-		"title": "六通水管《小》"
+		"title": "細鐵管《六向》"
 	},
 	"6661da68-74af-4425-ad63-d5b4631ee266": {
 		"title": "三通水管接頭《大》"
@@ -1090,7 +1090,7 @@
 	},
 	"7cf717d7-d167-4f2d-a6e7-6b2c70aa3986": {
 		"title": "開關",
-		"description": "輕輕一按，無限切換。開關\n可以啟動與其連線的任何東\n西，如果你想要只需按一次\n來開關什麼東西，它會是不\n可或缺的零件。它可以啟動\n引擎、推進器、控制器等等。"
+		"description": "輕輕一按，無限切換。開關\n可以啟動與其連線的任何東\n西，如果你想要只需按一次\n來開關什麼東西，它會是不\n可或缺的零件。它可啟動引\n擎、推進器、控制器等等。"
 	},
 	"1e8d93a4-506b-470d-9ada-9c0a321e2db5": {
 		"title": "按鈕",
@@ -1098,11 +1098,11 @@
 	},
 	"dfefc9d7-db03-4d25-ad85-eae1d824d8c0": {
 		"title": "收音機",
-		"description": "經典摯愛。那些野蠻的農場\n機器人劫持n了訊號，並且\n正在廣播符合它們非常與眾不\n同口味的精選音樂。與其互\n動來啟動它或是將它連到觸\n發器上。"
+		"description": "經典摯愛。那些野蠻的農場\n機器人劫持了訊號，並且正\n在廣播符合它們非常與眾不\n同口味的精選音樂。與其互\n動來啟動它或是將它連到觸\n發器上。"
 	},
 	"818f4e15-ff51-4fed-b874-723a25d62e1c": {
 		"title": "喇叭",
-		"description": "將其安裝到車輛上或用作門\n鈴。對你的朋友們猛按喇叭\n來避免車禍。設定音高並將其\n連到觸發器上進行啟動。"
+		"description": "將其安裝到車輛上或用作門\n鈴。對你的朋友們猛按喇叭\n來避免車禍。設定音高並將\n其連到觸發器上進行啟動。"
 	},
 	"9f0f56e8-2c31-4d83-996c-d00a9b296c3f": {
 		"title": "邏輯閘",
@@ -1150,43 +1150,43 @@
 	},
 	"67da25c9-3825-41f6-9724-4546a11cb2a5": {
 		"title": "運動懸吊《1》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊很小\n但彈性不錯。"
 	},
 	"aae686a2-0eb3-43b3-b998-def282de79e9": {
 		"title": "運動懸吊《2》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊很小\n但彈性不錯。"
 	},
 	"d0aa2676-5266-432a-bf7e-3887e6ddedd5": {
 		"title": "運動懸吊《3》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊很小\n但彈性不錯。"
 	},
 	"d9adddcc-972d-4726-a376-67f950b99a44": {
 		"title": "運動懸吊《4》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊很小\n但彈性不錯。"
 	},
 	"52855106-a95c-4427-9970-3f227109b66d": {
 		"title": "運動懸吊《5》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension is small, but has a firmer bounce."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊很小\n但彈性不錯。"
 	},
 	"f3cfef9d-faef-4be8-9283-476eb99614d7": {
 		"title": "越野懸吊《1》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊有良\n好的彈性，適合越野車輛使\n用。"
 	},
 	"00284190-1484-4286-a198-b2ddef768c2e": {
 		"title": "越野懸吊《2》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊有良\n好的彈性，適合越野車輛使\n用。"
 	},
 	"a9658eaf-0dd8-46a6-8cac-be6978f19b79": {
 		"title": "越野懸吊《3》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊有良\n好的彈性，適合越野車輛使\n用。"
 	},
 	"4c3f6a7c-45c6-4ed8-bf13-c247c3db6b81": {
 		"title": "越野懸吊《4》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊有良\n好的彈性，適合越野車輛使用。"
 	},
 	"73f838db-783e-4a41-bc0f-9008967780f3": {
 		"title": "越野懸吊《5》",
-		"description": "Adds shock absorption and provides stability. Great for vehicles to prevent them from easily flipping over. This suspension has a lot of bounce, making it ideal for off-road vehicles."
+		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊有良\n好的彈性，適合越野車輛使用。"
 	},
 	"77c2687c-2e13-4df8-996a-96fb26d75ee0": {
 		"title": "架駛座《1》",
@@ -1389,40 +1389,40 @@
 		"description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations."
 	},
 	"97f449b6-c948-448b-b8b3-4448e3f6b956": {
-		"title": "Vacuum Pump",
+		"title": "真空幫浦",
 		"description": "The Vaccum Pump has many uses when connected to a trigger. Suck up water in to a water container. Pick up plants in to a chest. It can even shoot and place items from a chest."
 	},
 	"59ea6ce8-239b-4eed-8847-a51b907d9b42": {
 		"title": "obj_pneumatic_pipe_01"
 	},
 	"a77a3c86-ba12-4f1f-986c-4bb532c5105d": {
-		"title": "Vacuum Pipe Straight Short"
+		"title": "真空管道《短》"
 	},
 	"9b8f2abd-265c-4750-b8b9-fe6cb564633c": {
-		"title": "Vacuum Pipe",
-		"description": "Use it with the Vacuum Pump to make items travel through pipes"
+		"title": "真空管道",
+		"description": "與真空幫浦配合使用，可以\n用來運輸物品。"
 	},
 	"bf7b6484-8b8b-4846-8110-c5d9f0b9ada7": {
-		"title": "Vacuum Pipe Straight medium"
+		"title": "真空管道《中段》"
 	},
 	"7479ff7f-37fc-4304-93e9-aad7891c29f2": {
-		"title": "Vacuum Pipe Long"
+		"title": "真空管道《長》"
 	},
 	"5939f460-ab6c-48f2-9d07-a66845ce8cf2": {
-		"title": "Vacuum Pipe Corner",
-		"description": "Use it with the Vacuum Pump to make items travel through pipes"
+		"title": "真空管道《彎角》",
+		"description": "與真空幫浦配合使用，可以\n用來運輸物品。"
 	},
 	"5eb8975b-0acf-43a7-ab4e-62ce661c0df7": {
-		"title": "Respawn Bed",
-		"description": "Take a lovely nap in this comfy bed to respawn in it after your mechanic has been knocked out"
+		"title": "重生床",
+		"description": "在你的工程師被擊倒之後，\n在這張舒服的床上小睡片刻\n然後重生"
 	},
 	"69559e81-50fa-40ae-afa2-a22c1a49eb54": {
-		"title": "Water Cannon",
-		"description": "Connect it to a Water container with a trigger to water your plants more efficiently"
+		"title": "水加農砲",
+		"description": "將它與有觸發器的水箱連接\n可以更為有效率的為你的植\n物灌溉"
 	},
 	"454ad69d-bac2-4b06-9386-6267bcbfece2": {
 		"title": "可安裝洋芋槍",
-		"description": "Connect it to a Ammo container with a trigger to shoot"
+		"description": "將它與有觸發器的彈箱箱連\n接可以射擊"
 	},
 	"c8b1bc7b-304e-44ce-9ca1-937b8e69d70c": {
 		"title": "Protector: Anti-Destruction",
@@ -1522,16 +1522,16 @@
 		"title": "辦公椅底座"
 	},
 	"63695efd-0862-49f2-ace6-4d1758147fae": {
-		"title": "Garment Box (Common)",
-		"description": "Use it in a Dressbot to make new clothes"
+		"title": "服裝盒《一般》",
+		"description": "拿給服裝機器人可以做出新服裝"
 	},
 	"27a221b1-9809-4df1-901a-caafe119c9b6": {
-		"title": "Garment Box (Rare)",
-		"description": "Use it in a Dressbot to make new clothes"
+		"title": "服裝盒《稀有》",
+		"description": "拿給服裝機器人可以做出新服裝"
 	},
 	"7ab0cac7-b055-4283-b0bc-f85dd4d0416b": {
-		"title": "Garment Box (Epic)",
-		"description": "Use it in a Dressbot to make new clothes"
+		"title": "服裝盒《傳奇》",
+		"description": "拿給服裝機器人可以做出新服裝"
 	},
 	"aa4c9c5e-7fc6-4c27-967f-c550e551c872": {
 		"title": "香蕉",
@@ -1567,7 +1567,7 @@
 	},
 	"bfcfac34-db0f-42d6-bd0c-74a7a5c95e82": {
 		"title": "馬鈴薯",
-		"description": "富含澱粉的馬鈴薯。也可當作洋芋槍或可安裝洋芋槍的彈藥。"
+		"description": "富含澱粉的馬鈴薯。也可當\n作洋芋槍或可安裝洋芋槍的\n彈藥。"
 	},
 	"13ffabca-91ec-48ce-9dd6-4f6660714701": {
 		"title": "青草栽種容器"
@@ -1598,17 +1598,17 @@
 	},
 	"3e10ef67-383a-4b60-aa5b-b1173134e437": {
 		"title": "鋸片",
-		"description": "Cut down trees faster with the Saw Blade. Put it on a bearing that is connected to a engine and drive it in to a tree."
+		"description": "使用鋸片可以更快的砍倒樹\n木。將它與軸承連接並連線\n到引擎，然後往有樹木的方\n向駛去。"
 	},
 	"276fd55b-ae54-4a7a-ace6-fddd2d3370a5": {
 		"title": "鑽頭",
-		"description": "Use the Drill to mine square rocks for stone and metal. Put it on a bearing that is connected to a engine and drive it in to a square rock."
+		"description": "使用鑽頭挖掘方型礦岩，可\n取得石頭與金屬。將它與軸\n承連接並連線到引擎，然後\n往有方型礦岩的方向駛去。"
 	},
 	"fcf0958c-084d-4854-9b1b-b06594b4262a": {
 		"title": "蜂蠟"
 	},
 	"267e0c93-62e3-45ad-9470-a14035cb9ca4": {
-		"title": "灰燼"
+		"title": "餘燼"
 	},
 	"1147e59d-6940-42b4-840b-07f05054f5e0": {
 		"title": "原油"
@@ -1621,7 +1621,7 @@
 		"description": "Wocs 喜歡吃玉米。"
 	},
 	"40e8bd0d-04a0-4e95-b593-4038b54b156f": {
-		"title": "Glue Clam"
+		"title": "膠水蚌"
 	},
 	"c9396a42-67c3-4fa3-b682-31428ff9eced": {
 		"title": "Pigment Flower"
@@ -1630,13 +1630,13 @@
 		"title": "電路板"
 	},
 	"fb0f128c-e607-4c52-9c25-f44dfd2dd95e": {
-		"title": "Woc Steak"
+		"title": "Woc 肉排"
 	},
 	"388adeab-67e5-4901-afe8-c56217754510": {
 		"title": "Glow"
 	},
 	"36335664-6e61-4d44-9876-54f9660a8565": {
-		"title": "Glue"
+		"title": "黏著劑"
 	},
 	"1e89879f-1171-4bcd-9465-db7f740ab09e": {
 		"title": "obj_robotparts_tapebothead01"
@@ -1990,16 +1990,16 @@
 		"title": "obj_craftbot_omnicrafter"
 	},
 	"798c2c81-1f8e-481b-8c32-b71b5dc5511a": {
-		"title": "Water Bucket",
-		"description": "Fill it with water to water your plants."
+		"title": "水桶",
+		"description": "裝水來灌溉你的植物。"
 	},
 	"103fc4e6-7e57-465e-a86d-983343415877": {
-		"title": "Water Bucket",
-		"description": "Bucket with water."
+		"title": "水桶",
+		"description": "裝有水的桶子。"
 	},
 	"2e792123-4a10-4cc6-b9ef-c5a518655cb4": {
-		"title": "Chemical Bucket",
-		"description": "Bucket with chemical waste."
+		"title": "化學桶",
+		"description": "裝有化學廢棄物的桶子。"
 	},
 	"bb641a4f-e391-441c-bc6d-0ae21a069476": {
 		"title": "tool_sledgehammer"
