@@ -247,7 +247,7 @@
 		"description": "工程師最愛的食物。補充飢\n餓值到最大值"
 	},
 	"e243f642-6934-42bb-8cdd-f8ff1704d411": {
-		"title": "長棍法國麵包",
+		"title": "潛艇堡",
 		"description": "餵食倒下的朋友，讓他們重\n新站起來恢復活動"
 	},
 	"2c4a2633-153a-4800-ba3d-2ac0d993b9c8": {
@@ -306,7 +306,7 @@
 	},
 	"096d4daf-639e-4947-a1a6-1890eaa94464": {
 		"title": "馬鈴薯彈藥箱",
-		"description": "將彈藥箱連接到一個有觸發\n器的可安裝洋芋槍可以射出\n馬鈴薯"
+		"description": "將彈藥箱連接到一個有觸發\n器的洋芋槍砲台可以射出馬\n鈴薯"
 	},
 	"38ec258d-c644-4f08-8635-3f7434c884dd": {
 		"title": "種子容器",
@@ -366,7 +366,7 @@
 		"title": "木頭箱"
 	},
 	"deabb19a-1acd-4bbf-8bd2-f8f17410170b": {
-		"title": "Woc Crate"
+		"title": "乳牛箱"
 	},
 	"8a4a55b0-0228-4839-933b-0716cedb3f96": {
 		"title": "攤平的香蕉箱"
@@ -1090,7 +1090,7 @@
 	},
 	"7cf717d7-d167-4f2d-a6e7-6b2c70aa3986": {
 		"title": "開關",
-		"description": "輕輕一按，無限切換。開關\n可以啟動與其連線的任何東\n西，如果你想要只需按一次\n來開關什麼東西，它會是不\n可或缺的零件。它可啟動引\n擎、推進器、控制器等等。"
+		"description": "輕輕一按，持續啟動。開關\n可以啟動與其連線的任何東\n西，如果你想要只需按一次\n來開關什麼東西，它會是不\n可或缺的零件。它可啟動引\n擎、推進器、控制器等等。"
 	},
 	"1e8d93a4-506b-470d-9ada-9c0a321e2db5": {
 		"title": "按鈕",
@@ -1190,207 +1190,207 @@
 	},
 	"77c2687c-2e13-4df8-996a-96fb26d75ee0": {
 		"title": "架駛座《1》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"efbf45f8-62ec-4541-9eb1-d529966f6a29": {
 		"title": "架駛座《2》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"c3ef3008-9367-4ab7-813a-24195d63e5a3": {
 		"title": "架駛座《3》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"d30dcd12-ec39-43b9-a115-44c08e1b9091": {
 		"title": "架駛座《4》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"ffa3a47e-fc0d-4977-802f-bd15683bbe5c": {
 		"title": "架駛座《5》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the seat. Lvl 5 Driver's Seat unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"3b972f2f-30c7-4a5e-a100-5e257e62295d": {
 		"title": "座位《1》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"2b9c6e87-1b75-4a57-8979-74d9f95668ba": {
 		"title": "座位《2》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"ebe2782e-a4f5-4d91-83cc-db110179393b": {
 		"title": "座位《3》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"46465697-ed36-4720-ba8a-08c568b4e36c": {
 		"title": "座位《4》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"703ca746-d802-4e76-b443-4881e83afb73": {
 		"title": "座位《5》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the seat."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"7d601a5a-796d-4cae-be88-b47479d38d11": {
 		"title": "架駛鞍座《1》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"bb2ed406-f0d3-4fd6-b3f9-7caadfa8e4e4": {
 		"title": "架駛鞍座《2》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"6953b17e-0a38-4107-8c56-5ee97e68bee3": {
 		"title": "架駛鞍座《3》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"41960868-6245-47b5-97c4-f446e199812f": {
 		"title": "架駛鞍座《4》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"9dd1ccea-1e44-430d-b706-3ff45416583e": {
 		"title": "架駛鞍座《5》",
-		"description": "Makes bearings turn left and right. Can be connected to an engine to control the direction of travel. Can also be connected to triggers that can be activated from the saddle. Lvl 5 Driver's Saddle unlocks steering settings by pressing (E) on connected bearings with the Connect Tool."
+		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"2d3016f7-febe-416e-93bc-41d80ca3910d": {
 		"title": "鞍座《1》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"c39b3537-d9b2-45f8-b2ea-0e9002c896d9": {
 		"title": "鞍座《2》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"797e07a3-6d56-4b74-949b-9492c7946e0d": {
 		"title": "鞍座《3》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"7516f5b8-9a15-4606-92bb-ea9a96a16594": {
 		"title": "鞍座《4》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"42f70341-207d-4e9d-b8ed-37962603a926": {
 		"title": "鞍座《5》",
-		"description": "Used for avoiding standing. Take a seat and relax or add it to your vehicle so your friends can tag along. Can be connected to triggers which can activate other interactive parts from the saddle."
+		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"1bfccc0a-828f-475c-882c-87d5a96054c9": {
 		"title": "燃氣引擎《1》",
-		"description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption."
+		"description": "一個功率固定，可調整速度\n的引擎，非常適合為車輛提\n供動力。可以連線到駕駛座\n或觸發器。升級後可以有更\n多的連接點並消耗更少汽油\n。"
 	},
 	"33d01ddd-f32b-4a9a-87d6-efb6710b389c": {
 		"title": "燃氣引擎《2》",
-		"description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption."
+		"description": "一個功率固定，可調整速度\n的引擎，非常適合為車輛提\n供動力。可以連線到駕駛座\n或觸發器。升級後可以有更\n多的連接點並消耗更少汽油\n。"
 	},
 	"470b9a92-ed94-4ef2-b1ea-b45f47ef0982": {
 		"title": "燃氣引擎《3》",
-		"description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption."
+		"description": "一個功率固定，可調整速度\n的引擎，非常適合為車輛提\n供動力。可以連線到駕駛座\n或觸發器。升級後可以有更\n多的連接點並消耗更少汽油\n。"
 	},
 	"bfcaac1a-5a7f-4fba-9980-1159617a7212": {
 		"title": "燃氣引擎《4》",
-		"description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption."
+		"description": "一個功率固定，可調整速度\n的引擎，非常適合為車輛提\n供動力。可以連線到駕駛座\n或觸發器。升級後可以有更\n多的連接點並消耗更少汽油\n。"
 	},
 	"3091926a-9340-46d9-83d6-4fd7c68ad950": {
 		"title": "燃氣引擎《5》",
-		"description": "An engine with fixed speed and adjustable power, ideally suited to powering vehicles. Can be connected to a driver's seat or trigger. Upgrade for more connection points and less gas consumption."
+		"description": "一個功率固定，可調整速度\n的引擎，非常適合為車輛提\n供動力。可以連線到駕駛座\n或觸發器。升級後可以有更\n多的連接點並消耗更少汽油\n。"
 	},
 	"5e5d231e-405e-4f45-9bd0-b3557dbb42eb": {
 		"title": "電動引擎《1》",
-		"description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption."
+		"description": "帶動軸承。一個功率固定，\n可調整速度的弱引擎。可以\n連線到駕駛座或觸發器。升\n級後可以有更多的連接點並\n消耗更少電池。"
 	},
 	"0c9cc5bb-af2f-4023-b8d8-cd7d52a60efe": {
 		"title": "電動引擎《2》",
-		"description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption."
+		"description": "帶動軸承。一個功率固定，\n可調整速度的弱引擎。可以\n連線到駕駛座或觸發器。升\n級後可以有更多的連接點並\n消耗更少電池。"
 	},
 	"56cea967-a685-494d-85ef-3aa121a0c193": {
 		"title": "電動引擎《3》",
-		"description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption."
+		"description": "帶動軸承。一個功率固定，\n可調整速度的弱引擎。可以\n連線到駕駛座或觸發器。升\n級後可以有更多的連接點並\n消耗更少電池。"
 	},
 	"5e57e0f7-e87c-4269-b274-146fe40e1b44": {
 		"title": "電動引擎《4》",
-		"description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption."
+		"description": "帶動軸承。一個功率固定，\n可調整速度的弱引擎。可以\n連線到駕駛座或觸發器。升\n級後可以有更多的連接點並\n消耗更少電池。"
 	},
 	"22f3e797-82f5-4819-a085-c3cc28ec9025": {
 		"title": "電動引擎《5》",
-		"description": "Powers bearings. An engine with fixed power and adjustable speed. A weak engine with an adjustable speed. Can be connected to a driver's seat or triggers. Upgrade for more connection points and less battery consumption."
+		"description": "帶動軸承。一個功率固定，\n可調整速度的弱引擎。可以\n連線到駕駛座或觸發器。升\n級後可以有更多的連接點並\n消耗更少電池。"
 	},
 	"df8528ed-15ad-4a39-a33a-698880684001": {
 		"title": "推進器《1》",
-		"description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption."
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
 	},
 	"9fc793b2-250b-40ab-bcb3-97cf97c7b481": {
 		"title": "推進器《2》",
-		"description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption."
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
 	},
 	"4c1cc8de-7af1-4f8e-a5c4-c583460af9e5": {
 		"title": "推進器《3》",
-		"description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption."
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
 	},
 	"e6db321c-6f98-47f6-9f7f-4e6794a62cb8": {
 		"title": "推進器《4》",
-		"description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption."
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
 	},
 	"a736ffdf-22c1-40f2-8e40-988cab7c0559": {
 		"title": "推進器《5》",
-		"description": "Enough of these can make things fly. Needs to be connected to a trigger or the driver's seat in order to activate. Upgrade for less gas consumption."
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
 	},
 	"598d865c-324c-4129-9c57-21a6abd2cb2e": {
 		"title": "控制器《1》",
-		"description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller."
+		"description": "讓承軸按順序旋轉。建造可\n變型作品的完美零件。需要\n連線到軸承。連線到觸發器\n或駕駛座來啟動控制器。"
 	},
 	"1872d83a-d1a1-4cb7-ad46-9e4468d2548c": {
 		"title": "控制器《2》",
-		"description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller."
+		"description": "讓承軸按順序旋轉。建造可\n變型作品的完美零件。需要\n連線到軸承。連線到觸發器\n或駕駛座來啟動控制器。"
 	},
 	"6bb84152-c4d7-4644-bc37-a3becd79298d": {
 		"title": "控制器《3》",
-		"description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller."
+		"description": "讓承軸按順序旋轉。建造可\n變型作品的完美零件。需要\n連線到軸承。連線到觸發器\n或駕駛座來啟動控制器。"
 	},
 	"2354cd24-3dd3-4db5-84ab-df64c32d2c72": {
 		"title": "控制器《4》",
-		"description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller."
+		"description": "讓承軸按順序旋轉。建造可\n變型作品的完美零件。需要\n連線到軸承。連線到觸發器\n或駕駛座來啟動控制器。"
 	},
 	"a092359d-5cea-484d-a274-470d9a567632": {
 		"title": "控制器《5》",
-		"description": "Allows bearings to rotate in sequence. Perfect for building transforming creations. Needs to be connected to bearings. Activated by connecting a trigger or driver's seat to the controller."
+		"description": "讓承軸按順序旋轉。建造可\n變型作品的完美零件。需要\n連線到軸承。連線到觸發器\n或駕駛座來啟動控制器。"
 	},
 	"1d4793af-cb66-4628-804a-9d7404712643": {
 		"title": "感測器《1》",
-		"description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more."
+		"description": "感測到物體，就會啟動！此\n感測器的表面偵測的有任何\n東西進入範圍內就會啟動，\n最大範圍可達十個方塊。它\n可以啟動引擎、推進器、\n控制器…等等。"
 	},
 	"cf46678b-c947-4267-ba85-f66930f5faa4": {
 		"title": "感測器《2》",
-		"description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more."
+		"description": "感測到物體，就會啟動！此\n感測器的表面偵測的有任何\n東西進入範圍內就會啟動，\n最大範圍可達十個方塊。它\n可以啟動引擎、推進器、\n控制器…等等。"
 	},
 	"90fc3603-3544-4254-97ef-ea6723510961": {
 		"title": "感測器《3》",
-		"description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more."
+		"description": "感測到物體，就會啟動！此\n感測器的表面偵測的有任何\n東西進入範圍內就會啟動，\n最大範圍可達十個方塊。它\n可以啟動引擎、推進器、\n控制器…等等。"
 	},
 	"de018bc6-1db5-492c-bfec-045e63f9d64b": {
 		"title": "感測器《4》",
-		"description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more."
+		"description": "感測到物體，就會啟動！此\n感測器的表面偵測的有任何\n東西進入範圍內就會啟動，\n最大範圍可達十個方塊。它\n可以啟動引擎、推進器、\n控制器…等等。"
 	},
 	"20dcd41c-0a11-4668-9b00-97f278ce21af": {
 		"title": "感測器《5》",
-		"description": "It detects, it activates! The sensor activates when detecting any kind of surface that comes into its view, and has a reach of ten blocks. It can activate an engine, a thruster, the controller and more."
+		"description": "感測到物體，就會啟動！此\n感測器的表面偵測的有任何\n東西進入範圍內就會啟動，\n最大範圍可達十個方塊。它\n可以啟動引擎、推進器、\n控制器…等等。"
 	},
 	"8c741785-5eae-4c48-9f99-d62bf522a83f": {
 		"title": "活塞《1》",
-		"description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations."
+		"description": "伸長與收縮！將它與觸發器\n連線以便啟動。活塞也可以\n與控制器連線使它能進行有\n序的活塞運動。非常適合創\n造令人印象深刻的作品。"
 	},
 	"31f14f52-f4d8-4b9f-9d6e-7412497c9284": {
 		"title": "活塞《2》",
-		"description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations."
+		"description": "伸長與收縮！將它與觸發器\n連線以便啟動。活塞也可以\n與控制器連線使它能進行有\n序的活塞運動。非常適合創\n造令人印象深刻的作品。"
 	},
 	"46396518-8c29-4da9-81bb-a020f4baf5b2": {
 		"title": "活塞《3》",
-		"description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations."
+		"description": "伸長與收縮！將它與觸發器\n連線以便啟動。活塞也可以\n與控制器連線使它能進行有\n序的活塞運動。非常適合創\n造令人印象深刻的作品。"
 	},
 	"7324219e-2b19-4098-baa3-9876984ead08": {
 		"title": "活塞《4》",
-		"description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations."
+		"description": "伸長與收縮！將它與觸發器\n連線以便啟動。活塞也可以\n與控制器連線使它能進行有\n序的活塞運動。非常適合創\n造令人印象深刻的作品。"
 	},
 	"2f004fdf-bfb0-46f3-a7ac-7711100bee0c": {
 		"title": "活塞《5》",
-		"description": "Extends and contracts! Connect it to a trigger to activate. The piston can also be connected to a controller to make it extend and contract in a sequence. Perfect for creating impressive creations."
+		"description": "伸長與收縮！將它與觸發器\n連線以便啟動。活塞也可以\n與控制器連線使它能進行有\n序的活塞運動。非常適合創\n造令人印象深刻的作品。"
 	},
 	"97f449b6-c948-448b-b8b3-4448e3f6b956": {
 		"title": "真空幫浦",
-		"description": "The Vaccum Pump has many uses when connected to a trigger. Suck up water in to a water container. Pick up plants in to a chest. It can even shoot and place items from a chest."
+		"description": "真空幫浦與觸發器連線時有\n許多的用途。吸水存進水箱\n。採收作物存進箱子。甚至\n可以從箱子射擊並放置物品\n。"
 	},
 	"59ea6ce8-239b-4eed-8847-a51b907d9b42": {
 		"title": "obj_pneumatic_pipe_01"
@@ -1421,7 +1421,7 @@
 		"description": "將它與有觸發器的水箱連接\n可以更為有效率的為你的植\n物灌溉"
 	},
 	"454ad69d-bac2-4b06-9386-6267bcbfece2": {
-		"title": "可安裝洋芋槍",
+		"title": "洋芋槍砲台",
 		"description": "將它與有觸發器的彈箱箱連\n接可以射擊"
 	},
 	"c8b1bc7b-304e-44ce-9ca1-937b8e69d70c": {
@@ -1567,7 +1567,7 @@
 	},
 	"bfcfac34-db0f-42d6-bd0c-74a7a5c95e82": {
 		"title": "馬鈴薯",
-		"description": "富含澱粉的馬鈴薯。也可當\n作洋芋槍或可安裝洋芋槍的\n彈藥。"
+		"description": "富含澱粉的馬鈴薯。也可當\n作洋芋槍或洋芋槍砲台的彈\n藥。"
 	},
 	"13ffabca-91ec-48ce-9dd6-4f6660714701": {
 		"title": "青草栽種容器"
@@ -1618,19 +1618,19 @@
 	},
 	"fe8bfeba-850b-4827-9785-10e2468c9c23": {
 		"title": "玉米",
-		"description": "Wocs 喜歡吃玉米。"
+		"description": "乳牛們喜歡吃玉米。"
 	},
 	"40e8bd0d-04a0-4e95-b593-4038b54b156f": {
 		"title": "膠水蚌"
 	},
 	"c9396a42-67c3-4fa3-b682-31428ff9eced": {
-		"title": "Pigment Flower"
+		"title": "染料花"
 	},
 	"f152e4df-bc40-44fb-8d20-3b3ff70cdfe3": {
 		"title": "電路板"
 	},
 	"fb0f128c-e607-4c52-9c25-f44dfd2dd95e": {
-		"title": "Woc 肉排"
+		"title": "乳牛肉排"
 	},
 	"388adeab-67e5-4901-afe8-c56217754510": {
 		"title": "Glow"
@@ -1895,8 +1895,8 @@
 		"title": "obj_harvest_stonechunk03"
 	},
 	"e49b210a-0d46-4f06-bcd8-08862379d156": {
-		"title": "Warehouse Key",
-		"description": "Used to activate a Warehouse elevator"
+		"title": "倉庫鑰匙",
+		"description": "用來啟動倉庫電梯"
 	},
 	"ff09d816-843a-43e9-aab6-dc35e73787fd": {
 		"title": "obj_survivalobject_cardreader"
@@ -2005,16 +2005,16 @@
 		"title": "tool_sledgehammer"
 	},
 	"c5ea0c2f-185b-48d6-b4df-45c386a575cc": {
-		"title": "Spud Gun",
-		"description": "Spud Gun with single potato shot."
+		"title": "洋芋槍",
+		"description": "一次射出一顆馬鈴薯的洋芋\n槍。"
 	},
 	"f6250bf4-9726-406f-a29a-945c06e460e5": {
-		"title": "Spud Shotgun",
-		"description": "Shoots sizzling hot fries in a spread."
+		"title": "洋芋霰彈槍",
+		"description": "射出熱騰騰的一些薯條。"
 	},
 	"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b": {
 		"title": "Spud Gattler",
-		"description": "Shoots potatoes in a rapid fire. Uses a lot of potato ammo"
+		"description": "連續射出馬鈴薯。使用大量\n的馬鈴薯彈藥。"
 	},
 	"88dc2a60-7e1a-4c24-8584-2491acd79753": {
 		"title": "obj_harvest_log_s01"
@@ -2441,7 +2441,7 @@
 	},
 	"be744e84-f67e-4c06-a809-c247adc1babb": {
 		"title": "主開關",
-		"description": "Unlimited toggling on demand. The Switch activates whatever it's connected to, making it indispensible when you want to turn things on and off with a single push. It can activate an engine, a thruster, the controller and more."
+		"description": "輕輕一按，持續啟動。開關\n可以啟動與其連線的任何東\n西，如果你想要只需按一次\n來開關什麼東西，它會是不\n可或缺的零件。它可啟動引\n擎、推進器、控制器等等。"
 	},
 
 
@@ -2499,7 +2499,7 @@
 	},
 	"d5e36413-b3c1-4636-8447-3410c352ec7b":	{
 		"title": "燃氣引擎",
-		"description": "一台具有固定轉速與可調整\n功率的引擎，是車輛理想的\n動力來源。可連線到觸發器\n或駕駛座上。"
+		"description": "一個有功率固定與可調整速\n度的引擎，是車輛理想的動\n力來源。可連線到觸發器或\n駕駛座上。"
 	},
 	"6546c293-a5aa-4442-80d5-a2819f077746":	{
 		"title": "電動引擎",
@@ -2518,8 +2518,8 @@
 		"description": "感測，啟動！感測器在偵測\n到任一面有東西進入視野範\n圍時啟動，偵測距離為 10 \n個方塊。它可以啟動引擎、\n推進器、控制器等等。"
 	},
 	"0229f59d-1ba3-446a-8f9c-df8b0f816e51": {
-		"title": "可安裝洋芋槍",
-		"description": "可改裝洋芋槍，可以在危險\n的環境中很好的保護自己。\n將它與一個連線到座椅的觸\n發器連線，可以在座位上射\n擊。"
+		"title": "洋芋槍砲台",
+		"description": "洋芋槍砲台，可以在危險的\n環境中很好的保護自己。將\n它與一個連線到座椅的觸發\n器連線，可以在座位上射擊\n。"
 	},
 	"260b4597-f1ac-409c-8e6b-90c998c5fe94": {
 		"title": "活塞",
