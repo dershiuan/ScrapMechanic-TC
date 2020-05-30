@@ -1,0 +1,1045 @@
+{
+	"levelList":
+	[
+		{
+			"uuid": "f5c38cff-7531-4c60-bb39-76b704276800",
+			"name": "挑戰 1",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_1_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_1_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_01.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ "$CONTENT_DATA/Blueprints/TutorialStarterCreation_01.blueprint" ],
+				"chestContents": [ ],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "41c0ad7e-b15a-4ab1-bd3a-5524f7f7ca34",
+			"name": "挑戰 2",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_2_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_2_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_02.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ "$CONTENT_DATA/Blueprints/TutorialStarterCreation_02.blueprint" ],
+				"chestContents": [
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 1 }, // Bearing
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 3 } // Wheel
+				],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "a0a70432-9c39-4aec-b575-1af9c442cf0f",
+			"name": "挑戰 3",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_3_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_3_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_03.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ "$CONTENT_DATA/Blueprints/TutorialStarterCreation_03.blueprint" ],
+				"chestContents": [ ],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "a062421d-511c-471a-8068-fe72e2c6ad0f",
+			"name": "挑戰 4",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_4_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_4_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_04.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ "$CONTENT_DATA/Blueprints/TutorialStarterCreation_04.blueprint" ],
+				"chestContents": [
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 } // Gas Engine
+				],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "7676defa-d007-40ca-ad9c-7fc5b72c678b",
+			"name": "挑戰 5",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_5_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_5_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_05.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ "$CONTENT_DATA/Blueprints/TutorialStarterCreation_05.blueprint" ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 16 }, // Wood Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 4 }, // Bearing
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 2 } // Wheel
+				],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "cda9f8ce-9a0d-4447-ad27-99747be8ab88",
+			"name": "挑戰 6",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_6_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_6_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_06.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ "$CONTENT_DATA/Blueprints/TutorialStarterCreation_06.blueprint" ],
+				"chestContents": [
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 } // Electric Engine
+				],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "23633cda-00fb-4840-a091-2f69caa9f380",
+			"name": "挑戰 7",
+			"description": "Description 7",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_7_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_7_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_07.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 50 }, // Wood Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 2 }, // Electric Engine
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 2 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 4 } // Big Wheel
+				],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "f78e3e74-9712-4197-ad73-3ac5ec3641f7",
+			"name": "挑戰 8",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_8_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_8_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_08.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 50 }, // Wood Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 4 } // Big Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "89a870d9-523e-44a7-a2f8-843e56066351",
+			"name": "挑戰 9",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_9_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_9_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_09.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 50 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 4 } // Big Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "62e1b503-90b4-4a28-b842-9912797b6524",
+			"name": "挑戰 10",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_10_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_10_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_TutorialLevel_10.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 60 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 20 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "aa8d89eb-919b-42f4-8b58-af6f0d5856bc", "quantity": 4 }, // Sport Suspension
+					{ "uuid": "a481138b-fae9-47c9-9bc2-91b6d2e2bf52", "quantity": 4 }, // Off-Road Suspension
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 4 } // Big Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "82410399-5a68-497b-99e6-6be38890c532",
+			"name": "挑戰 11",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_11_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_11_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_01.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 64 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 4 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 2 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 } // Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "71e335bd-7764-496b-b75c-cee38ba95fc3",
+			"name": "挑戰 12",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_12_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_12_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_02.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 64 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 2 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 } // Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "18fc24a6-6125-4e71-b4e8-cf19b2422e55",
+			"name": "挑戰 13",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_13_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_13_large.png",
+			"data": {
+				"tiles": ["$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_03.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 40 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 8 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 2 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 } // Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "52a40a5b-f622-4b57-a25e-0d75b99f2650",
+			"name": "挑戰 14",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_14_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_14_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_04.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 40 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 8 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 2 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 } // Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "dc6220f7-c205-4cd1-8b94-0eab1ae135d7",
+			"name": "挑戰 15",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_15_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_15_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_05.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 100 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 8 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 } // Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "7445af59-0c8d-4c10-829f-c8ab9120f57e",
+			"name": "挑戰 16",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_16_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_16_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_06.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 64 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 8 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 4 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 4 } // Big Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "9801ddb3-9740-493b-9c55-b0bd5f3724cb",
+			"name": "挑戰 17",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_17_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_17_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_07.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 200 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 30 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 2 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 8 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 2 }, // Switch
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 8 } // Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "5c180df1-d0b3-4e2d-8d38-84844bdbe650",
+			"name": "挑戰 18",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_18_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_18_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_08.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 50 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 2 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "ed185725-ea12-43fc-9cd7-4295d0dbf88b", "quantity": 1 } // Sledgehammer
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "08b018d7-84f4-4dba-b6ca-50f9ee49f94a",
+			"name": "挑戰 19",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_19_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_19_large.png",
+			"data": {
+				"tiles": ["$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_09.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 64 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 4 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 4 } // Big Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "d53bfe9b-ee51-42ae-99cd-56ab9fdcdc42",
+			"name": "挑戰 20",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_20_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_20_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_ThrusterLevel_10.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 50 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "5e96037a-a338-490a-a76f-6b4d820f8e46", "quantity": 2 }, // Thruster
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 } // Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "8f1c8cad-adb8-4a2f-9af7-5ef11c7766f2",
+			"name": "挑戰 21",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_21_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_21_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_01.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ "$CONTENT_DATA/Blueprints/PuzzleStarterCreation_01.blueprint" ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 64 }, // Wood Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 1 }, // Piston
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 } // Wheel
+				],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "8e7e79ed-02e2-4117-8d58-98e9a238e928",
+			"name": "挑戰 22",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_22_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_22_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_02.tile"
+				],
+				"levelCreations": [ "$CONTENT_DATA/Blueprints/ChallengeMode_PuzzleLevel_02.blueprint" ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 80 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 32 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 2 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 2 }, // Button
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 3 }, // Piston
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 } // Wheel
+				],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "11b63832-2881-4e3f-a405-d1226edf0fa5",
+			"name": "挑戰 23",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_23_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_23_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_03.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ "$CONTENT_DATA/Blueprints/PuzzleStarterCreation_03.blueprint" ],
+				"chestContents": [ ],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "2a937904-2e40-4690-8282-17a0be93c120",
+			"name": "挑戰 24",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_24_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_24_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_04.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 100 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 8 } // Wheel
+				],
+				"tutorial": true
+			}
+		},
+		{
+			"uuid": "a458fa6e-33e0-403d-b286-3d07d1b91228",
+			"name": "挑戰 25",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_25_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_25_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_05.tile"
+				],
+				"levelCreations": [ "$CONTENT_DATA/Blueprints/ChallengeMode_PuzzleLevel_05.blueprint" ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 50 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 8 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 2 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 2 }, // Piston
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "b1dd7967-da2a-4ff5-a90f-bbd7e9bae4d7", "quantity": 1 } // Mannequin Hand
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "573504e9-1ac3-4537-b51f-53e9077d2a00",
+			"name": "挑戰 26",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_26_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_26_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_06.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 64 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 32 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 } // Big Wheel
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "87510586-4e3b-4a53-abed-430c08bd7650",
+			"name": "挑戰 27",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_27_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_27_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_07.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 100 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 50 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 5 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 5 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 5 }, // Button
+					{ "uuid": "add3acc6-a6fd-44e8-a384-a7a16ce13c81", "quantity": 1 }, // Sensor
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 1 }, // Piston
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 2 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 6 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 2 } // Small Pipe Tee
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "0da07f05-a4e7-4b8d-8c31-31051c0d2860",
+			"name": "挑戰 28",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_28_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_28_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_08.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 128 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 80 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 2 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 2 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 2 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 3 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "add3acc6-a6fd-44e8-a384-a7a16ce13c81", "quantity": 5 }, // Sensor
+					{ "uuid": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f", "quantity": 5 }, // Logic Gate
+					{ "uuid": "8f7fd0e7-c46e-4944-a414-7ce2437bb30f", "quantity": 1 }, // Timer
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 7 }, // Piston
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 10 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 4 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 4 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 1 } // Small Pipe Tee
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "fedde5ba-88d9-4a9d-b4c3-f214396c812d",
+			"name": "挑戰 29",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_29_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_29_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_09.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 64 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 64 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 8 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 2 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 2 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "add3acc6-a6fd-44e8-a384-a7a16ce13c81", "quantity": 1 }, // Sensor
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 6 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 8 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 10 }, // Small Pipe Bend
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 10 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 8 } // Small Pipe Tee
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "0744c2f4-538c-4251-8be3-40ee753c2d60",
+			"name": "挑戰 30",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_30_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_30_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PuzzleLevel_10.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 32 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 8 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 4 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 2 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 2 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "add3acc6-a6fd-44e8-a384-a7a16ce13c81", "quantity": 1 }, // Sensor
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 4 }, // Piston
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 8 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 10 }, // Small Pipe Bend
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 10 }, // Small Pipe Bend
+					{ "uuid": "c6ebae46-8e69-4ddd-a3c0-895d887027bd", "quantity": 2 }, // Small Pipe Five Way
+					{ "uuid": "c5e56da5-bc3f-4519-91c2-b307d36e15aa", "quantity": 8 } // Screw
+				],
+				"tutorial": false
+			}
+		},
+		{
+			"uuid": "d8277acb-6729-4824-9db6-cb951bd81e0c",
+			"name": "挑戰 31",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_31_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_31_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_01.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 80 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 8 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 2 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 3 }, // Button
+					{ "uuid": "0229f59d-1ba3-446a-8f9c-df8b0f816e51", "quantity": 1 }, // Mountable Spudgun
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 4 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 4 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 2 } // Small Pipe Tee
+				]
+			}
+		},
+		{
+			"uuid": "f9117202-da4f-44c0-84e0-f0c371495e56",
+			"name": "挑戰 32",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_32_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_32_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_02.tile"
+				],
+				"levelCreations": [ "$CONTENT_DATA/Blueprints/ChallengeMode_PotatoLevel_02.blueprint" ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 80 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 8 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 2 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 3 }, // Button
+					{ "uuid": "0229f59d-1ba3-446a-8f9c-df8b0f816e51", "quantity": 1 }, // Mountable Spudgun
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 4 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 4 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 2 } // Small Pipe Tee
+				]
+			}
+		},
+		{
+			"uuid": "12355ea8-cc91-48df-aac4-b42f05643eb7",
+			"name": "挑戰 33",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_33_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_33_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_03.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 80 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 16 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 4 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 5 }, // Button
+					{ "uuid": "0229f59d-1ba3-446a-8f9c-df8b0f816e51", "quantity": 1 }, // Mountable Spudgun
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 4 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 4 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 2 } // Small Pipe Tee
+				]
+			}
+		},
+		{
+			"uuid": "02ea8f1c-6b33-49c2-aade-012df31aa8b3",
+			"name": "挑戰 34",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_34_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_34_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_04.tile"
+				],
+				"levelCreations": [ "$CONTENT_DATA/Blueprints/ChallengeMode_PotatoLevel_04.blueprint" ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 80 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 56 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 4 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 5 }, // Button
+					{ "uuid": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f", "quantity": 9 }, // Logic Gate
+					{ "uuid": "8f7fd0e7-c46e-4944-a414-7ce2437bb30f", "quantity": 2 }, // Timer
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 4 }, // Piston
+					{ "uuid": "0229f59d-1ba3-446a-8f9c-df8b0f816e51", "quantity": 8 }, // Mountable Spudgun
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 4 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 4 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 4 } // Small Pipe Tee
+				]
+			}
+		},
+		{
+			"uuid": "02dfe4b7-535e-4d3d-b05d-eb9b6acc72e6",
+			"name": "挑戰 35",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_35_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_35_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_05.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 64 }, // Wood Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 6 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "24001201-40dd-4950-b99f-17d878a9e07b", "quantity": 1 }, // Large Explosive Canister
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 } // Big Wheel
+				]
+			}
+		},
+		{
+			"uuid": "d491254d-334e-4a3a-937a-de23eec580ed",
+			"name": "挑戰 36",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_36_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_36_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_06.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 100 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 36 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "aa8d89eb-919b-42f4-8b58-af6f0d5856bc", "quantity": 2 }, // Sport Suspension
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 2 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 3 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f", "quantity": 1 }, // Logic Gate
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 4 }, // Piston
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 4 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 10 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 6 } // Small Pipe Tee
+				]
+			}
+		},
+		{
+			"uuid": "56ebf46d-865c-406f-afc5-af0770736596",
+			"name": "挑戰 37",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_37_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_37_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_07.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 90 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 56 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 2 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 1 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 1 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "9f0f56e8-2c31-4d83-996c-d00a9b296c3f", "quantity": 3 }, // Logic Gate
+					{ "uuid": "8f7fd0e7-c46e-4944-a414-7ce2437bb30f", "quantity": 1 }, // Timer
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 5 }, // Piston
+					{ "uuid": "0229f59d-1ba3-446a-8f9c-df8b0f816e51", "quantity": 8 }, // Mountable Spudgun
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 2 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 2 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 2 }, // Small Pipe Tee
+					{ "uuid": "c5e56da5-bc3f-4519-91c2-b307d36e15aa", "quantity": 4 } // Screw
+				]
+			}
+		},
+		{
+			"uuid": "f6b9c430-25ff-4bd1-8742-3b20fec2b43d",
+			"name": "挑戰 38",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_38_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_38_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_08.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 260 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 56 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 8 }, // Bearing
+					{ "uuid": "aa8d89eb-919b-42f4-8b58-af6f0d5856bc", "quantity": 4 }, // Sport Suspension
+					{ "uuid": "a481138b-fae9-47c9-9bc2-91b6d2e2bf52", "quantity": 4 }, // Off-Road Suspension
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 2 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 4 }, // Controller
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 4 }, // Piston
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 4 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 2 } // Small Pipe Tee
+				]
+			}
+		},
+		{
+			"uuid": "ac4b9fec-5cc9-4a8b-8bc1-191f7cda6f49",
+			"name": "挑戰 39",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_39_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_39_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_09.tile"
+				],
+				"levelCreations": [ "$CONTENT_DATA/Blueprints/ChallengeMode_PotatoLevel_09.blueprint" ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 100 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 600 }, // Metal Block
+					{ "uuid": "f0cba95b-2dc4-4492-8fd9-36546a4cb5aa", "quantity": 1 }, // Cardboard Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 5 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 3 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 3 }, // Button
+					{ "uuid": "add3acc6-a6fd-44e8-a384-a7a16ce13c81", "quantity": 1 }, // Sensor
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 1 }, // Piston
+					{ "uuid": "0229f59d-1ba3-446a-8f9c-df8b0f816e51", "quantity": 1 }, // Mountable Spudgun
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 2 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 6 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 2 } // Small Pipe Tee
+				]
+			}
+		},
+		{
+			"uuid": "81bbf01c-b321-4c7e-8836-afacc6621e56",
+			"name": "挑戰 40",
+			"smallIcon": "$CONTENT_DATA/Icons/Level_40_small.png",
+			"largeIcon": "$CONTENT_DATA/Icons/Level_40_large.png",
+			"data": {
+				"tiles": [
+					"$CONTENT_DATA/Tiles/ChallengeMode_PotatoLevel_10.tile"
+				],
+				"levelCreations": [ ],
+				"startCreations": [ ],
+				"chestContents": [
+					{ "uuid": "df953d9c-234f-4ac2-af5e-f0490b223e71", "quantity": 80 }, // Wood Block
+					{ "uuid": "8aedf6c2-94e1-4506-89d4-a0227c552f1e", "quantity": 26 }, // Metal Block
+					{ "uuid": "4a1b886b-913e-4aad-b5b6-6e41b0db23a6", "quantity": 10 }, // Bearing
+					{ "uuid": "aa8d89eb-919b-42f4-8b58-af6f0d5856bc", "quantity": 4 }, // Sport Suspension
+					{ "uuid": "cf3fdcfc-a7e5-4497-b000-ffda67dd8db7", "quantity": 1 }, // Driver's Seat
+					{ "uuid": "38ee0516-abc5-4e46-9195-c763610d7ec4", "quantity": 1 }, // Driver's Saddle
+					{ "uuid": "d5e36413-b3c1-4636-8447-3410c352ec7b", "quantity": 1 }, // Gas Engine
+					{ "uuid": "6546c293-a5aa-4442-80d5-a2819f077746", "quantity": 1 }, // Electric Engine
+					{ "uuid": "12862001-666c-4bdd-8326-a1f43610d28b", "quantity": 2 }, // Controller
+					{ "uuid": "7cf717d7-d167-4f2d-a6e7-6b2c70aa3986", "quantity": 3 }, // Switch
+					{ "uuid": "1e8d93a4-506b-470d-9ada-9c0a321e2db5", "quantity": 1 }, // Button
+					{ "uuid": "260b4597-f1ac-409c-8e6b-90c998c5fe94", "quantity": 1 }, // Piston
+					{ "uuid": "0229f59d-1ba3-446a-8f9c-df8b0f816e51", "quantity": 1 }, // Mountable Spudgun
+					{ "uuid": "69e362c3-32aa-4cd1-adc0-dcfc47b92c0d", "quantity": 4 }, // Wheel
+					{ "uuid": "db66f0b1-0c50-4b74-bdc7-771374204b1f", "quantity": 2 }, // Big Wheel
+					{ "uuid": "0dba257b-b907-4919-baaf-2fefe19f4e24", "quantity": 4 }, // Small Pipe Short
+					{ "uuid": "8024db09-9147-4fe3-a747-00bc30ab724b", "quantity": 10 }, // Small Pipe Bend
+					{ "uuid": "e1273b8a-945b-4080-81eb-cbf79961cccb", "quantity": 6 } // Small Pipe Tee
+				]
+			}
+		}
+	]
+}

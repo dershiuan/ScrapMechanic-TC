@@ -187,7 +187,7 @@
 		"title": "立式路障"
 	},
 	"9769c4b2-67f0-446b-a00d-ee432218b038": {
-		"title": "obj_construction_signcone_taped"
+		"title": "物件_construction_signcone_taped"
 	},
 	"6232b62a-f3e0-4609-a159-ab08abf8125f": {
 		"title": "水泥混漿"
@@ -251,7 +251,7 @@
 		"description": "餵食倒下的朋友，讓他們重\n新站起來恢復活動"
 	},
 	"2c4a2633-153a-4800-ba3d-2ac0d993b9c8": {
-		"title": "Woc 牛奶"
+		"title": "牛奶"
 	},
 	"d4d68946-aa03-4b8f-b1af-96b81ad4e305": {
 		"title": "汽油桶",
@@ -560,109 +560,109 @@
 		"title": "乾草捆"
 	},
 	"89f446fa-ba6a-4728-93b5-6a1abda114fc": {
-		"title": "obj_destructable_tape_doorwaytape01"
+		"title": "物件_可破壞_tape_doorwaytape01"
 	},
 	"45b6f45a-9b47-40af-88d1-f1ad0d98e565": {
-		"title": "obj_destructable_tape_doorwaytape01_destroyed"
+		"title": "物件_可破壞_tape_doorwaytape01_destroyed"
 	},
 	"3de7e8ca-f7f4-4faf-b348-4848741528c1": {
-		"title": "obj_destructable_tape_cornertape01"
+		"title": "物件_可破壞_tape_cornertape01"
 	},
 	"46f4a939-b20c-4fae-bf37-8410796a05f2": {
-		"title": "obj_destructable_tape_cornertape02"
+		"title": "物件_可破壞_tape_cornertape02"
 	},
 	"50668b05-41de-4b48-abf2-6a576ab550fe": {
-		"title": "obj_destructable_tape_cornertape03"
+		"title": "物件_可破壞_tape_cornertape03"
 	},
 	"dfcff000-e027-4f43-9bfb-f9a84b3b50c4": {
-		"title": "obj_destructable_tape_cornertape04"
+		"title": "物件_可破壞_tape_cornertape04"
 	},
 	"20e0b1f2-dd7b-4b69-9308-b6c26c0b0e6e": {
-		"title": "obj_destructable_tape_corridor01"
+		"title": "物件_可破壞_tape_corridor01"
 	},
 	"94cf22f0-f0fb-4d1b-b5ce-f4b54e8e84d1": {
-		"title": "obj_destructable_tape_corridor02"
+		"title": "物件_可破壞_tape_corridor02"
 	},
 	"a6524403-668d-4e41-93a7-6326e9205560": {
-		"title": "obj_destructable_tape_corridor03"
+		"title": "物件_可破壞_tape_corridor03"
 	},
 	"c8d3b9ba-5bb1-49c5-aeb0-6c32f9b1e5c8": {
-		"title": "obj_destructable_tape_taperoll01"
+		"title": "物件_可破壞_tape_taperoll01"
 	},
 	"ce1117c1-35d4-4c77-9a31-740078c6b1d8": {
-		"title": "obj_destructable_tape_taperoll02"
+		"title": "物件_可破壞_tape_taperoll02"
 	},
 	"c5d4f725-0a67-4902-b6da-82a16aafd36a": {
-		"title": "obj_destructable_tape_taperoll03"
+		"title": "物件_可破壞_tape_taperoll03"
 	},
 	"1503a160-bf1f-4b86-8406-b11250c71a28": {
-		"title": "obj_destructable_tape_taperoll04"
+		"title": "物件_可破壞_tape_taperoll04"
 	},
 	"df4724fa-b3ea-438d-b07f-75af46af4bfd": {
-		"title": "obj_destructable_tape_tape01"
+		"title": "物件_可破壞_tape_tape01"
 	},
 	"1bdc2111-691c-465f-84d1-0e5faeca9897": {
-		"title": "obj_destructable_tape_tape02"
+		"title": "物件_可破壞_tape_tape02"
 	},
 	"7ba75948-640c-4563-9501-800cbddbeb6d": {
-		"title": "obj_destructable_tape_tape03"
+		"title": "物件_可破壞_tape_tape03"
 	},
 	"55597dd3-44b6-4fd5-81da-bb56d2ec59d9": {
-		"title": "obj_destructable_tape_tape04"
+		"title": "物件_可破壞_tape_tape04"
 	},
 	"3db622ee-112b-4b72-97fc-5bf49c3edf15": {
-		"title": "obj_destructable_tape_tape05"
+		"title": "物件_可破壞_tape_tape05"
 	},
 	"189aabd7-a3a4-4ba1-886e-e2e21dd1772b": {
-		"title": "obj_destructable_tape_tape06"
+		"title": "物件_可破壞_tape_tape06"
 	},
 	"c3b7163e-02d4-4b00-96ad-c15860be9419": {
-		"title": "obj_destructable_tape_cocoon01"
+		"title": "物件_可破壞_tape_cocoon01"
 	},
 	"286faea5-83db-4f53-8813-1ce81309a059": {
-		"title": "obj_destructable_tape_cocoon02"
+		"title": "物件_可破壞_tape_cocoon02"
 	},
 	"48a0b91a-1edb-4695-ba61-c702570563ce": {
-		"title": "obj_destructable_tape_rooftape01"
+		"title": "物件_可破壞_tape_rooftape01"
 	},
 	"9b4a43c3-4950-49e2-858e-34768550a227": {
-		"title": "obj_destructable_tape_rooftape02"
+		"title": "物件_可破壞_tape_rooftape02"
 	},
 	"2d503740-f2da-41a1-ae5c-3c49d44e3bb2": {
-		"title": "obj_destructable_tape_rooftape03"
+		"title": "物件_可破壞_tape_rooftape03"
 	},
 	"1bace005-426c-4b44-8530-ef8698210a6f": {
-		"title": "obj_destructable_tape_rooftape04"
+		"title": "物件_可破壞_tape_rooftape04"
 	},
 	"e8beb527-e470-4934-bc06-0d7f6312e49c": {
-		"title": "obj_destructable_tape_acrosstheroom01"
+		"title": "物件_可破壞_tape_acrosstheroom01"
 	},
 	"109d044d-6002-4779-be04-34501d78408f": {
-		"title": "obj_destructable_tape_acrosstheroom02"
+		"title": "物件_可破壞_tape_acrosstheroom02"
 	},
 	"960c9498-f76a-4ffc-a608-218dc6909de8": {
-		"title": "obj_destructable_tape_acrosstheroom03"
+		"title": "物件_可破壞_tape_acrosstheroom03"
 	},
 	"ed8cb110-bf48-43f6-9e86-273cfc0a7080": {
-		"title": "obj_destructable_tape_big_walltape01"
+		"title": "物件_可破壞_tape_big_walltape01"
 	},
 	"e9a7a26a-6e72-4bd4-8a44-7d5ab8b83f4b": {
-		"title": "obj_destructable_tape_big_walltape02"
+		"title": "物件_可破壞_tape_big_walltape02"
 	},
 	"e086d2de-6224-4ebc-8152-add18793ee58": {
-		"title": "obj_destructable_tape_big_walltape03"
+		"title": "物件_可破壞_tape_big_walltape03"
 	},
 	"265bf568-a801-4ce6-8ac3-d20526443bc5": {
-		"title": "obj_destructable_tape_big_walltape04"
+		"title": "物件_可破壞_tape_big_walltape04"
 	},
 	"ea16ec2e-5135-49e9-9543-9bdcd818d90a": {
-		"title": "obj_destructable_tape_big_walltape05"
+		"title": "物件_可破壞_tape_big_walltape05"
 	},
 	"20b3577f-a2f1-44f3-a22c-83f792732771": {
-		"title": "obj_destructable_taperolls_big"
+		"title": "物件_可破壞_taperolls_big"
 	},
 	"8365cf6a-af1a-41aa-a8c9-34313dce1f55": {
-		"title": "obj_destructable_taperolls_small"
+		"title": "物件_可破壞_taperolls_small"
 	},
 	"9d7e182f-c5d6-45e9-af21-1c24977b30c9": {
 		"title": "通風管《短》"
@@ -848,19 +848,19 @@
 		"title": "發電機管線《四通接頭》"
 	},
 	"968de65c-75f3-471b-954e-6165a4b6d3d6": {
-		"title": "obj_harvest_wood"
+		"title": "廢木材"
 	},
 	"f99ebc34-4821-4b39-a625-b839c5802ed5": {
-		"title": "obj_harvest_wood2"
+		"title": "木材"
 	},
 	"5cb39ea5-554d-4c40-9d9a-6b2dd59de953": {
-		"title": "obj_harvest_metal"
+		"title": "廢金屬"
 	},
 	"7468db55-b29d-4ce0-82b9-2414f493a376": {
-		"title": "obj_harvest_metal2"
+		"title": "金屬"
 	},
 	"02ee2a98-bd8d-4a09-bb69-38edaf66b8e1": {
-		"title": "obj_harvest_stone"
+		"title": "廢石材"
 	},
 	"0bc74539-df8a-47c7-aad8-d55d809a01e4": {
 		"title": "Banana Crate"
@@ -950,7 +950,7 @@
 		"title": "支撐結構"
 	},
 	"29ededf7-6436-41bf-84f4-8fb5361d29ea": {
-		"title": "倉庫組合框"
+		"title": "支撐結構《小》"
 	},
 	"56545d5c-556d-4cd5-9125-6e34acf37c3d": {
 		"title": "U 型梁"
@@ -1189,23 +1189,23 @@
 		"description": "增加減震效果並提供穩定性\n。非常適合車輛使用，以防\n止其容易翻倒。此懸吊有良\n好的彈性，適合越野車輛使用。"
 	},
 	"77c2687c-2e13-4df8-996a-96fb26d75ee0": {
-		"title": "架駛座《1》",
+		"title": "駕駛座《1》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"efbf45f8-62ec-4541-9eb1-d529966f6a29": {
-		"title": "架駛座《2》",
+		"title": "駕駛座《2》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"c3ef3008-9367-4ab7-813a-24195d63e5a3": {
-		"title": "架駛座《3》",
+		"title": "駕駛座《3》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"d30dcd12-ec39-43b9-a115-44c08e1b9091": {
-		"title": "架駛座《4》",
+		"title": "駕駛座《4》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"ffa3a47e-fc0d-4977-802f-bd15683bbe5c": {
-		"title": "架駛座《5》",
+		"title": "駕駛座《5》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"3b972f2f-30c7-4a5e-a100-5e257e62295d": {
@@ -1229,23 +1229,23 @@
 		"description": "能坐著就別站著。坐下休息\n或將其安裝到車輛上讓你的\n朋友們使用。可以連線到觸\n發器，然後從座位上啟用其\n它互動零件。"
 	},
 	"7d601a5a-796d-4cae-be88-b47479d38d11": {
-		"title": "架駛鞍座《1》",
+		"title": "駕駛鞍座《1》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"bb2ed406-f0d3-4fd6-b3f9-7caadfa8e4e4": {
-		"title": "架駛鞍座《2》",
+		"title": "駕駛鞍座《2》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"6953b17e-0a38-4107-8c56-5ee97e68bee3": {
-		"title": "架駛鞍座《3》",
+		"title": "駕駛鞍座《3》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"41960868-6245-47b5-97c4-f446e199812f": {
-		"title": "架駛鞍座《4》",
+		"title": "駕駛鞍座《4》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"9dd1ccea-1e44-430d-b706-3ff45416583e": {
-		"title": "架駛鞍座《5》",
+		"title": "駕駛鞍座《5》",
 		"description": "控制軸承左右旋轉。可與引\n擎連線來控制行使方向。也\n可與觸發器連線，然後從座\n位上來啟動。等級 5 的駕\n使座可控制更多的軸承，透\n過連線工具然後按 (E) 來進\n行設定。"
 	},
 	"2d3016f7-febe-416e-93bc-41d80ca3910d": {
@@ -1310,23 +1310,23 @@
 	},
 	"df8528ed-15ad-4a39-a33a-698880684001": {
 		"title": "推進器《1》",
-		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或駕駛\n座來啟動。升級後消耗較少\n的汽油。"
 	},
 	"9fc793b2-250b-40ab-bcb3-97cf97c7b481": {
 		"title": "推進器《2》",
-		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或駕駛\n座來啟動。升級後消耗較少\n的汽油。"
 	},
 	"4c1cc8de-7af1-4f8e-a5c4-c583460af9e5": {
 		"title": "推進器《3》",
-		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或駕駛\n座來啟動。升級後消耗較少\n的汽油。"
 	},
 	"e6db321c-6f98-47f6-9f7f-4e6794a62cb8": {
 		"title": "推進器《4》",
-		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或駕駛\n座來啟動。升級後消耗較少\n的汽油。"
 	},
 	"a736ffdf-22c1-40f2-8e40-988cab7c0559": {
 		"title": "推進器《5》",
-		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或架駕\n駛座來啟動。升級後消耗較\n少的汽油。"
+		"description": "動力足以讓某些東西飛起來\n。需要連連到觸發器或駕駛\n座來啟動。升級後消耗較少\n的汽油。"
 	},
 	"598d865c-324c-4129-9c57-21a6abd2cb2e": {
 		"title": "控制器《1》",
@@ -1393,7 +1393,7 @@
 		"description": "真空幫浦與觸發器連線時有\n許多的用途。吸水存進水箱\n。採收作物存進箱子。甚至\n可以從箱子射擊並放置物品\n。"
 	},
 	"59ea6ce8-239b-4eed-8847-a51b907d9b42": {
-		"title": "obj_pneumatic_pipe_01"
+		"title": "物件_pneumatic_pipe_01"
 	},
 	"a77a3c86-ba12-4f1f-986c-4bb532c5105d": {
 		"title": "真空管道《短》"
@@ -1495,7 +1495,7 @@
 		"title": "水桶"
 	},
 	"b4831236-a9b3-4422-92da-803f9252a279": {
-		"title": "obj_office_waterdispensertank_taped"
+		"title": "物件_office_waterdispensertank_taped"
 	},
 	"b627c533-f0e7-4fa7-83e6-5c3d517568e0": {
 		"title": "隔間牆"
@@ -1516,7 +1516,7 @@
 		"title": "辦公椅座塾"
 	},
 	"da2efa37-370d-4848-bc2e-2bae01173ce1": {
-		"title": "obj_office_officechair_taped"
+		"title": "物件_office_officechair_taped"
 	},
 	"1f343b76-3622-4e4b-9de4-238d43d60734": {
 		"title": "辦公椅底座"
@@ -1639,46 +1639,46 @@
 		"title": "黏著劑"
 	},
 	"1e89879f-1171-4bcd-9465-db7f740ab09e": {
-		"title": "obj_robotparts_tapebothead01"
+		"title": "物件_robotparts_tapebothead01"
 	},
 	"50380984-9ad6-4092-88e9-5a84b8212899": {
-		"title": "obj_robotparts_tapebottorso01"
+		"title": "物件_robotparts_tapebottorso01"
 	},
 	"7faccb34-95df-4f3d-9250-054bb04b2719": {
-		"title": "obj_robotparts_tapebotleftarm01"
+		"title": "物件_robotparts_tapebotleftarm01"
 	},
 	"f293a245-2415-4da5-b012-01134652611f": {
-		"title": "obj_robotparts_tapebotshooter"
+		"title": "物件_robotparts_tapebotshooter"
 	},
 	"e9b6ef48-2a41-4db2-b8bc-5fd3f179b04e": {
-		"title": "obj_robotparts_haybothead"
+		"title": "物件_robotparts_haybothead"
 	},
 	"4617f9a6-8724-43ee-97e2-20904fd660ab": {
-		"title": "obj_robotparts_haybotbody"
+		"title": "物件_robotparts_haybotbody"
 	},
 	"6e480a17-57f1-4c06-9313-9b1c80e1be05": {
-		"title": "obj_robotparts_haybotpelvis"
+		"title": "物件_robotparts_haybotpelvis"
 	},
 	"7085387b-a2ce-4ef5-be67-b67501754b9e": {
-		"title": "obj_robotparts_haybotfork"
+		"title": "物件_robotparts_haybotfork"
 	},
 	"7b4d4f21-9164-4d55-854f-670afd54f1cc": {
-		"title": "obj_robotparts_farmbotpart_head"
+		"title": "物件_robotparts_farmbotpart_head"
 	},
 	"79b93e3a-79fd-4a1e-88cb-1eda65d3535f": {
-		"title": "obj_robotparts_farmbotpart_cannonarm"
+		"title": "物件_robotparts_farmbotpart_cannonarm"
 	},
 	"369b43d3-4ed3-464d-82e8-c9aa11251afc": {
-		"title": "obj_robotparts_farmbotpart_drill"
+		"title": "物件_robotparts_farmbotpart_drill"
 	},
 	"5de17a8f-f447-4204-886e-6ba015347f89": {
-		"title": "obj_robotparts_farmbotpart_scytharm"
+		"title": "物件_robotparts_farmbotpart_scytharm"
 	},
 	"b9b4f8ef-9d30-4662-8696-d27a2ba0a7fa": {
-		"title": "obj_robotpart_totebotbody"
+		"title": "物件_robotpart_totebotbody"
 	},
 	"243afe95-8058-47b0-bccf-49cc0445cd55": {
-		"title": "obj_robotpart_totebotleg"
+		"title": "物件_robotpart_totebotleg"
 	},
 	"c96ab903-f238-4bae-a614-28a758716d00": {
 		"title": "拼裝燃氣引擎",
@@ -1775,46 +1775,46 @@
 		"title": "Ship Wall Panel Large"
 	},
 	"5d2cdb56-2be8-4a62-8f05-ce5c9c1510ac": {
-		"title": "obj_spaceship_wall08_damaged"
+		"title": "物件_太空船_wall08_damaged"
 	},
 	"4053c30c-6717-47c7-b0a9-177f7b8b30bc": {
-		"title": "obj_spaceship_wall02"
+		"title": "物件_太空船_wall02"
 	},
 	"c807b38c-52b6-45cf-8cd3-1a46e6a9627f": {
-		"title": "obj_spaceship_wall02_damaged"
+		"title": "物件_太空船_wall02_damaged"
 	},
 	"b3bb8083-d9b5-408d-b45c-49a444efba57": {
-		"title": "obj_spaceship_wall01"
+		"title": "物件_太空船_wall01"
 	},
 	"46ac20df-dfbc-434f-aaf3-f34ddc2afb42": {
-		"title": "obj_spaceship_wall03"
+		"title": "物件_太空船_wall03"
 	},
 	"011c1ffd-7146-4e8d-8c18-17247d768ae2": {
-		"title": "obj_spaceship_wall04"
+		"title": "物件_太空船_wall04"
 	},
 	"6159898f-beb8-4f49-825b-92b0774daa61": {
-		"title": "obj_spaceship_wall12"
+		"title": "物件_太空船_wall12"
 	},
 	"2bc619a3-c884-4e60-9e78-6c04487a48c5": {
-		"title": "obj_spaceship_wall12_damaged"
+		"title": "物件_太空船_wall12_damaged"
 	},
 	"2448a709-a8ec-4d69-a927-b9ab195cd83f": {
-		"title": "obj_spaceship_wall06"
+		"title": "物件_太空船_wall06"
 	},
 	"84d8e6eb-948b-4dd4-ab23-55a64d33eff1": {
-		"title": "obj_spaceship_wall05"
+		"title": "物件_太空船_wall05"
 	},
 	"f15b5fa7-6113-4af8-b3e1-b05560ed946a": {
-		"title": "obj_spaceship_corner01"
+		"title": "物件_太空船_corner01"
 	},
 	"45ee9f5a-cfc0-4f3a-bbe8-09f2ce1dbc4c": {
-		"title": "obj_spaceship_corner01_damaged"
+		"title": "物件_太空船_corner01_damaged"
 	},
 	"988b5592-9e53-4782-a058-d26be442bd49": {
-		"title": "obj_spaceship_corner02"
+		"title": "物件_太空船_corner02"
 	},
 	"90686663-1a3e-479a-b1c4-f81699274f50": {
-		"title": "obj_spaceship_corner03"
+		"title": "物件_太空船_corner03"
 	},
 	"5ba206c2-d10b-4815-b95b-04be4959ec31": {
 		"title": "Ship Wall Panel Small"
@@ -1838,19 +1838,19 @@
 		"title": "Ship Floor Mold"
 	},
 	"aa3e38ef-21aa-4430-ab56-93c367f4f458": {
-		"title": "obj_spaceship_frame02"
+		"title": "物件_太空船_frame02"
 	},
 	"29c5c1eb-a3bd-45ae-b823-aeb28d70593a": {
-		"title": "obj_spaceship_frame05"
+		"title": "物件_太空船_frame05"
 	},
 	"22c526fc-b212-4e4e-af00-1cc69d9129e1": {
-		"title": "obj_spaceship_frame03"
+		"title": "物件_太空船_frame03"
 	},
 	"a79a2bc9-1015-4c25-ab4b-0d4cb715db47": {
-		"title": "obj_spaceship_frame04"
+		"title": "物件_太空船_frame04"
 	},
 	"c5bdb30e-9675-4f8a-8fb9-07e5b98039d4": {
-		"title": "obj_spaceship_frame06"
+		"title": "物件_太空船_frame06"
 	},
 	"196586b5-897f-40f3-926c-b5dfa4f772eb": {
 		"title": "Ship Blinds"
@@ -1862,132 +1862,132 @@
 		"title": "Ship Ventilation Panel"
 	},
 	"fc4f1fd8-2544-45f0-8e3b-4684bc45e5f9": {
-		"title": "obj_spaceship_floor_panel"
+		"title": "物件_太空船_floor_panel"
 	},
 	"1f5d8b77-183c-4f8b-83d7-a3940d090926": {
-		"title": "obj_spaceship_infoboard"
+		"title": "物件_太空船_infoboard"
 	},
 	"cd18840d-d4ee-4f36-8ab1-843c823b0dcf": {
-		"title": "obj_harvests_stones_p01"
+		"title": "物件_採集資源_石材_p01"
 	},
 	"b2d9e40b-e8e8-4d1e-86f9-86d0bdc5ddc4": {
-		"title": "obj_harvests_stones_p02"
+		"title": "物件_採集資源_石材_p02"
 	},
 	"c9d61f53-ebd3-4bb5-8789-43b00edbcc8b": {
-		"title": "obj_harvests_stones_p03"
+		"title": "物件_採集資源_石材_p03"
 	},
 	"126be16e-10c1-4ccd-82c5-368edc7f766a": {
-		"title": "obj_harvests_stones_p04"
+		"title": "物件_採集資源_石材_p04"
 	},
 	"8c0ad43a-4bc8-41ef-ab3a-de70eb9ef510": {
-		"title": "obj_harvests_stones_p05"
+		"title": "物件_採集資源_石材_p05"
 	},
 	"92bae57d-ae30-4a75-a7ad-8bf91f20d660": {
-		"title": "obj_harvests_stones_p06"
+		"title": "物件_採集資源_石材_p06"
 	},
 	"0b114031-5065-4365-922d-3980d791e00d": {
-		"title": "obj_harvest_stonechunk01"
+		"title": "物件_採集資源_石塊_01"
 	},
 	"4e3f17bb-0169-4eb5-a4b4-84725a607b2c": {
-		"title": "obj_harvest_stonechunk02"
+		"title": "物件_採集資源_石塊_02"
 	},
 	"4cd7a389-a1ac-47f4-8cc0-2776174985da": {
-		"title": "obj_harvest_stonechunk03"
+		"title": "物件_採集資源_石塊_03"
 	},
 	"e49b210a-0d46-4f06-bcd8-08862379d156": {
 		"title": "倉庫鑰匙",
 		"description": "用來啟動倉庫電梯"
 	},
 	"ff09d816-843a-43e9-aab6-dc35e73787fd": {
-		"title": "obj_survivalobject_cardreader"
+		"title": "物件_survivalobject_cardreader"
 	},
 	"9a3058f3-6771-464f-a3e0-25d247f1422f": {
-		"title": "obj_survivalobject_cardreader_arm"
+		"title": "物件_survivalobject_cardreader_arm"
 	},
 	"75c11f33-7592-427f-96ac-d89994438042": {
-		"title": "obj_packingstation_front"
+		"title": "物件_打包站_front"
 	},
 	"4fbf640a-200d-45c6-862a-cc2900f84f2c": {
-		"title": "obj_packingstation_mid"
+		"title": "物件_打包站_mid"
 	},
 	"3a135dd2-510c-434b-b019-ce077042a5c8": {
-		"title": "obj_packingstation_crateload"
+		"title": "物件_打包站_crateload"
 	},
 	"cc7fdd4a-ae17-44c8-9f91-089ea00f4891": {
-		"title": "obj_packingstation_screen_fruit"
+		"title": "物件_打包站_screen_fruit"
 	},
 	"6a620faa-ca0d-4e39-bc67-97fb93d808c2": {
-		"title": "obj_packingstation_screen_veggie"
+		"title": "物件_打包站_screen_veggie"
 	},
 	"d2e0d468-858b-4a8b-98b4-8c5900309aef": {
-		"title": "obj_survivalobject_elevatorfloor"
+		"title": "物件_survivalobject_elevatorfloor"
 	},
 	"a553bf2f-3a66-404a-b4c6-ce9e7b73f9d4": {
-		"title": "obj_survivalobject_elevatorbutton"
+		"title": "物件_survivalobject_elevatorbutton"
 	},
 	"61bdf048-c09f-4cf5-8b47-35ba28c0580c": {
-		"title": "obj_survivalobject_elevatorcallbutton"
+		"title": "物件_survivalobject_elevatorcallbutton"
 	},
 	"004bb5ee-34ba-484a-924b-31412d898e7e": {
-		"title": "obj_survivalobject_elevatordoor_left"
+		"title": "物件_survivalobject_elevatordoor_left"
 	},
 	"f47612db-e035-4d62-81e2-64fc3453ccc3": {
-		"title": "obj_survivalobject_bananabox"
+		"title": "物件_survivalobject_bananabox"
 	},
 	"c4a0a65b-3b24-4beb-bd7a-d687f4210169": {
-		"title": "obj_survivalobject_elevatorlamp"
+		"title": "物件_survivalobject_elevatorlamp"
 	},
 	"c8650c34-30ec-42c5-8dc3-7652ba4034ff": {
-		"title": "obj_survivalobject_elevatorwallleft"
+		"title": "物件_survivalobject_elevatorwallleft"
 	},
 	"d2093f3c-178c-4220-bfe0-e8a3d87f96c0": {
-		"title": "obj_survivalobject_elevatorwallright"
+		"title": "物件_survivalobject_elevatorwallright"
 	},
 	"256fde90-4225-4c22-b107-fcaabe2bec9c": {
-		"title": "obj_survivalobject_elevatorfan"
+		"title": "物件_survivalobject_elevatorfan"
 	},
 	"5ff56026-7af2-4644-b30c-f0b43230093f": {
-		"title": "obj_survivalobject_elevatorceiling"
+		"title": "物件_survivalobject_elevatorceiling"
 	},
 	"2ff2b13f-5a50-443c-bbda-1f40f6aa917f": {
-		"title": "obj_survivalobject_workbench"
+		"title": "物件_survivalobject_workbench"
 	},
 	"e59afe5b-2c5f-4934-95d7-8c187b22fd6d": {
-		"title": "obj_survivalobject_capsuledoor"
+		"title": "物件_survivalobject_capsuledoor"
 	},
 	"c0159b96-edf3-46cd-9fbe-96ee1126304b": {
-		"title": "obj_survivalobject_powercoresocket"
+		"title": "物件_survivalobject_powercoresocket"
 	},
 	"c654a023-ca53-4109-9f18-d297c18e9a02": {
 		"title": "主電池",
 		"description": "用於給大型宇宙飛船或空間\n站供電"
 	},
 	"ebd73cee-988f-4ffb-95d1-d3c3c81fd506": {
-		"title": "obj_survivalobject_dispenserbot"
+		"title": "物件_survivalobject_dispenserbot"
 	},
 	"eed5ea94-2b85-4c1d-881d-7e07574480f9": {
-		"title": "obj_survivalobject_dispenserbot_spawner"
+		"title": "物件_survivalobject_dispenserbot_spawner"
 	},
 	"ec0bb005-f3c1-425a-94c4-6feca8567068": {
-		"title": "obj_survivalobject_terminal"
+		"title": "物件_survivalobject_terminal"
 	},
 	"614c3193-13da-40f4-9b03-37f26e760fd6": {
-		"title": "obj_hideout_questgiver"
+		"title": "物件_hideout_questgiver"
 	},
 	"712a5ebd-0793-49ba-b1ef-681a8fdceba6": {
-		"title": "obj_hideout_button"
+		"title": "物件_hideout_button"
 	},
 	"d1840356-ad77-4505-a9a0-10d11a77986f": {
-		"title": "obj_hideout_dropoff"
+		"title": "物件_hideout_dropoff"
 	},
 	"de7eea5b-9262-476b-a5bb-238d0e91f81f": {
-		"title": "obj_survivalobject_kobag"
+		"title": "物件_survivalobject_kobag"
 	},
 	"79cc711e-7094-4029-8419-bbbf8f08c6f2": {
-		"title": "obj_survivalobject_ruinchest"
+		"title": "物件_survivalobject_ruinchest"
 	},
 	"176e4c20-93d6-4792-860e-7043f12003a6": {
-		"title": "obj_craftbot_omnicrafter"
+		"title": "物件_製作機器人_omnicrafter"
 	},
 	"798c2c81-1f8e-481b-8c32-b71b5dc5511a": {
 		"title": "水桶",
@@ -2013,278 +2013,278 @@
 		"description": "射出熱騰騰的一些薯條。"
 	},
 	"9fde0601-c2ba-4c70-8d5c-2a7a9fdd122b": {
-		"title": "Spud Gattler",
+		"title": "洋芋機槍",
 		"description": "連續射出馬鈴薯。使用大量\n的馬鈴薯彈藥。"
 	},
 	"88dc2a60-7e1a-4c24-8584-2491acd79753": {
-		"title": "obj_harvest_log_s01"
+		"title": "物件_採集資源_木材_s01"
 	},
 	"135967d2-7faa-495f-98f4-5130350396a4": {
-		"title": "obj_harvest_log_m01"
+		"title": "物件_採集資源_木材_m01"
 	},
 	"a4ab4df5-403d-4baa-a3c3-ecc19dd87340": {
-		"title": "obj_harvest_log_l01"
+		"title": "物件_採集資源_木材_l01"
 	},
 	"3e6d2a8a-c836-4ae5-b6bf-9ec01c6393b0": {
-		"title": "obj_harvest_log_l02a"
+		"title": "物件_採集資源_木材_l02a"
 	},
 	"10149368-0d49-44c1-9521-dbec436eb770": {
-		"title": "obj_harvest_log_l02b"
+		"title": "物件_採集資源_木材_l02b"
 	},
 	"5a508601-485f-4db6-8134-69a4d3d02bc1": {
-		"title": "obj_harvests_trees_spruce02_p00"
+		"title": "物件_採集資源_樹木_spruce02_p00"
 	},
 	"b95bcc20-9581-4228-b444-b1c7ebc73507": {
-		"title": "obj_harvests_trees_spruce02_p01"
+		"title": "物件_採集資源_樹木_spruce02_p01"
 	},
 	"3104311d-a1c6-4f26-8eb9-7eea54fe164f": {
-		"title": "obj_harvests_trees_spruce02_p02"
+		"title": "物件_採集資源_樹木_spruce02_p02"
 	},
 	"de637191-d84d-4c1e-8a55-7bb86e54ce70": {
-		"title": "obj_harvests_trees_spruce02_p03"
+		"title": "物件_採集資源_樹木_spruce02_p03"
 	},
 	"a68470c8-67f4-4248-8c76-15fa7fb09ec6": {
-		"title": "obj_harvests_trees_spruce02_p04"
+		"title": "物件_採集資源_樹木_spruce02_p04"
 	},
 	"bb14330f-4698-4c2b-a5ba-732443a67d72": {
-		"title": "obj_harvests_trees_spruce01_p05"
+		"title": "物件_採集資源_樹木_spruce01_p05"
 	},
 	"3b0c9ff3-6c5a-404a-b830-4872471bf33f": {
-		"title": "obj_harvests_trees_spruce02_p05"
+		"title": "物件_採集資源_樹木_spruce02_p05"
 	},
 	"8f9e059a-4c3a-4664-967a-28f127529aaf": {
-		"title": "obj_harvests_trees_spruce03_p05"
+		"title": "物件_採集資源_樹木_spruce03_p05"
 	},
 	"4126d267-c8df-4c3c-98c7-9cb17f87f770": {
-		"title": "obj_harvests_trees_leafy01_p00"
+		"title": "物件_採集資源_樹木_leafy01_p00"
 	},
 	"fd381577-bcd2-4b72-b86c-de47d7783820": {
-		"title": "obj_harvests_trees_leafy01_p01"
+		"title": "物件_採集資源_樹木_leafy01_p01"
 	},
 	"c52c6da1-dad9-4649-b02f-34dec0bbd411": {
-		"title": "obj_harvests_trees_leafy01_p02"
+		"title": "物件_採集資源_樹木_leafy01_p02"
 	},
 	"90f31b94-a831-4786-a5e7-6d423c224718": {
-		"title": "obj_harvests_trees_leafy01_p03"
+		"title": "物件_採集資源_樹木_leafy01_p03"
 	},
 	"88dc4f4a-18c2-4d79-8dee-f0e7ac9d5845": {
-		"title": "obj_harvests_trees_leafy01_p04"
+		"title": "物件_採集資源_樹木_leafy01_p04"
 	},
 	"f708c190-6155-4769-ae0e-884cc8c21300": {
-		"title": "obj_harvests_trees_leafy02_p00"
+		"title": "物件_採集資源_樹木_leafy02_p00"
 	},
 	"bd2af8d6-ecc4-4071-82cb-56620345c06e": {
-		"title": "obj_harvests_trees_leafy02_p01"
+		"title": "物件_採集資源_樹木_leafy02_p01"
 	},
 	"5cf2c67c-62f6-4219-a857-943901611c6f": {
-		"title": "obj_harvests_trees_leafy02_p02"
+		"title": "物件_採集資源_樹木_leafy02_p02"
 	},
 	"42bac230-35c5-4d22-a141-1cf693137548": {
-		"title": "obj_harvests_trees_leafy02_p03"
+		"title": "物件_採集資源_樹木_leafy02_p03"
 	},
 	"3d9dd135-5e3d-412a-bb1b-2ad58f0ea8be": {
-		"title": "obj_harvests_trees_leafy02_p04"
+		"title": "物件_採集資源_樹木_leafy02_p04"
 	},
 	"9ca81758-7c90-4368-ab57-1d9d62b32a37": {
-		"title": "obj_harvests_trees_leafy02_p05"
+		"title": "物件_採集資源_樹木_leafy02_p05"
 	},
 	"5a0ffe5b-f7cf-482b-915f-1d6b0876c26c": {
-		"title": "obj_harvests_trees_leafy02_p06"
+		"title": "物件_採集資源_樹木_leafy02_p06"
 	},
 	"b1647259-50bd-4838-814a-bfddd770ba70": {
-		"title": "obj_harvests_trees_leafy02_p07"
+		"title": "物件_採集資源_樹木_leafy02_p07"
 	},
 	"ef7115ea-a497-4a4a-a1ec-44b810094ef1": {
-		"title": "obj_harvests_trees_leafy03_p00"
+		"title": "物件_採集資源_樹木_leafy03_p00"
 	},
 	"3b30e244-edca-44c3-a2b8-08ae779c69e6": {
-		"title": "obj_harvests_trees_leafy03_p01"
+		"title": "物件_採集資源_樹木_leafy03_p01"
 	},
 	"40ff42d8-6e6f-4da4-a91c-8289e72b9ea1": {
-		"title": "obj_harvests_trees_leafy03_p02"
+		"title": "物件_採集資源_樹木_leafy03_p02"
 	},
 	"8821ec7c-477d-4d3b-9b0c-aee479d3e6c3": {
-		"title": "obj_harvests_trees_leafy03_p03"
+		"title": "物件_採集資源_樹木_leafy03_p03"
 	},
 	"6e7eb9bb-4b8e-400a-b9c4-2e9320e03ead": {
-		"title": "obj_harvests_trees_leafy03_p04"
+		"title": "物件_採集資源_樹木_leafy03_p04"
 	},
 	"92a6186b-9c42-48d0-9ebc-a978044e6a22": {
-		"title": "obj_harvests_trees_leafy03_p05"
+		"title": "物件_採集資源_樹木_leafy03_p05"
 	},
 	"57d39e43-5c0b-476c-b8a2-474c77c22607": {
-		"title": "obj_harvests_trees_leafy03_p06"
+		"title": "物件_採集資源_樹木_leafy03_p06"
 	},
 	"c1e99269-4090-489f-bcaf-f7cb04b03a73": {
-		"title": "obj_harvests_trees_leafy03_p07"
+		"title": "物件_採集資源_樹木_leafy03_p07"
 	},
 	"a6523fd2-869c-4d11-ba42-dc967a8aad25": {
-		"title": "obj_harvests_trees_leafy03_p08"
+		"title": "物件_採集資源_樹木_leafy03_p08"
 	},
 	"fbc59ea5-993f-48a7-8b49-c1cdf67f75e2": {
-		"title": "obj_harvests_trees_leafy03_p09"
+		"title": "物件_採集資源_樹木_leafy03_p09"
 	},
 	"55b19e7f-e45b-48b2-8f7c-d9e84fed0736": {
-		"title": "obj_harvests_trees_birch01_p00"
+		"title": "物件_採集資源_樹木_birch01_p00"
 	},
 	"22947bb1-7c64-477c-8656-d7857df39b78": {
-		"title": "obj_harvests_trees_birch01_p01"
+		"title": "物件_採集資源_樹木_birch01_p01"
 	},
 	"5ee9b950-839f-479a-bc06-902b830504cf": {
-		"title": "obj_harvests_trees_birch01_p02"
+		"title": "物件_採集資源_樹木_birch01_p02"
 	},
 	"7b78d74f-c4c7-4c48-80f5-8f7f4bbd5de9": {
-		"title": "obj_harvests_trees_birch01_p03"
+		"title": "物件_採集資源_樹木_birch01_p03"
 	},
 	"1d667253-849c-4f9f-9109-1a2d91795247": {
-		"title": "obj_harvests_trees_birch01_p04"
+		"title": "物件_採集資源_樹木_birch01_p04"
 	},
 	"64555383-f1c9-4027-a1c4-02951d085b76": {
-		"title": "obj_harvests_trees_birch01_p05"
+		"title": "物件_採集資源_樹木_birch01_p05"
 	},
 	"89ca09da-4e7c-404f-99eb-beb275cfc217": {
-		"title": "obj_harvests_trees_birch02_p00"
+		"title": "物件_採集資源_樹木_birch02_p00"
 	},
 	"13cf98bf-d033-4be5-a0a0-560cb946a4ba": {
-		"title": "obj_harvests_trees_birch02_p01"
+		"title": "物件_採集資源_樹木_birch02_p01"
 	},
 	"ce37c509-2be6-4368-8ac7-a34a75fab248": {
-		"title": "obj_harvests_trees_birch02_p02"
+		"title": "物件_採集資源_樹木_birch02_p02"
 	},
 	"47b95667-6296-4bc4-a93e-8e2bf51c8b80": {
-		"title": "obj_harvests_trees_birch02_p03"
+		"title": "物件_採集資源_樹木_birch02_p03"
 	},
 	"06c564e2-ca8d-4843-94e9-322cb835f59e": {
-		"title": "obj_harvests_trees_birch02_p04"
+		"title": "物件_採集資源_樹木_birch02_p04"
 	},
 	"de556b89-a4be-4d7e-ab49-e6485af16836": {
-		"title": "obj_harvests_trees_birch02_p05"
+		"title": "物件_採集資源_樹木_birch02_p05"
 	},
 	"3b683206-f4b6-4652-bb32-dd488e73f367": {
-		"title": "obj_harvests_trees_birch02_p06"
+		"title": "物件_採集資源_樹木_birch02_p06"
 	},
 	"b7756219-75f2-4eb8-93d1-262e8ddded27": {
-		"title": "obj_harvests_trees_birch03_p00"
+		"title": "物件_採集資源_樹木_birch03_p00"
 	},
 	"0a2544c9-902d-42e2-91af-f35dad9c5d0e": {
-		"title": "obj_harvests_trees_birch03_p01"
+		"title": "物件_採集資源_樹木_birch03_p01"
 	},
 	"a73f7005-b89a-427d-8e94-c3d6f729be52": {
-		"title": "obj_harvests_trees_birch03_p02"
+		"title": "物件_採集資源_樹木_birch03_p02"
 	},
 	"2133fdb7-5e3c-4fb9-99ad-5b4f8bf5c6e5": {
-		"title": "obj_harvests_trees_birch03_p03"
+		"title": "物件_採集資源_樹木_birch03_p03"
 	},
 	"0b423e11-50dd-4272-92a2-506f42c992d4": {
-		"title": "obj_harvests_trees_birch03_p04"
+		"title": "物件_採集資源_樹木_birch03_p04"
 	},
 	"d00f05c6-f704-49a0-acdc-b4391086d254": {
-		"title": "obj_harvests_trees_birch03_p05"
+		"title": "物件_採集資源_樹木_birch03_p05"
 	},
 	"079b7a15-7718-444b-8560-7717109dabff": {
-		"title": "obj_harvests_trees_birch03_p06"
+		"title": "物件_採集資源_樹木_birch03_p06"
 	},
 	"fe1d102e-992a-4a24-a942-5fb37e8879d3": {
-		"title": "obj_harvests_trees_pine01_p00"
+		"title": "物件_採集資源_樹木_pine01_p00"
 	},
 	"608d6e20-bc3e-4440-907f-f0bd5fb45eac": {
-		"title": "obj_harvests_trees_pine01_p01"
+		"title": "物件_採集資源_樹木_pine01_p01"
 	},
 	"93ace99a-f58c-4dd3-8334-0ee890e42feb": {
-		"title": "obj_harvests_trees_pine01_p02"
+		"title": "物件_採集資源_樹木_pine01_p02"
 	},
 	"c713ed53-14fc-4a0d-93cf-9c2c865a2086": {
-		"title": "obj_harvests_trees_pine01_p03"
+		"title": "物件_採集資源_樹木_pine01_p03"
 	},
 	"e4df268d-5845-4532-ba75-75bb7b71fcdf": {
-		"title": "obj_harvests_trees_pine01_p04"
+		"title": "物件_採集資源_樹木_pine01_p04"
 	},
 	"79e41f5c-7b69-42ba-9172-7e3df49231bd": {
-		"title": "obj_harvests_trees_pine01_p05"
+		"title": "物件_採集資源_樹木_pine01_p05"
 	},
 	"5ca61a85-7040-47bc-8f87-5d2ce295cb6e": {
-		"title": "obj_harvests_trees_pine01_p06"
+		"title": "物件_採集資源_樹木_pine01_p06"
 	},
 	"1b24e0a4-3f04-4dfe-83ea-612da2eff922": {
-		"title": "obj_harvests_trees_pine01_p07"
+		"title": "物件_採集資源_樹木_pine01_p07"
 	},
 	"2f955589-701b-4c47-9127-37feeb80d35a": {
-		"title": "obj_harvests_trees_pine01_p08"
+		"title": "物件_採集資源_樹木_pine01_p08"
 	},
 	"c1593ec8-ed29-4f95-8bce-507f028810d2": {
-		"title": "obj_harvests_trees_pine01_p09"
+		"title": "物件_採集資源_樹木_pine01_p09"
 	},
 	"2311afca-ca99-4b7b-a209-8382ed7ea356": {
-		"title": "obj_harvests_trees_pine01_p10"
+		"title": "物件_採集資源_樹木_pine01_p10"
 	},
 	"f9a71b9b-d872-4097-863c-a11783642221": {
-		"title": "obj_harvests_trees_pine01_p11"
+		"title": "物件_採集資源_樹木_pine01_p11"
 	},
 	"46a78456-aa4f-409d-98d2-d1fdeac94e41": {
-		"title": "obj_harvests_trees_pine02_p00"
+		"title": "物件_採集資源_樹木_pine02_p00"
 	},
 	"ff5bee6a-81a3-49ba-a4b7-d94dbd4b8519": {
-		"title": "obj_harvests_trees_pine02_p01"
+		"title": "物件_採集資源_樹木_pine02_p01"
 	},
 	"9518dd16-f207-4dd5-9c52-91a655446a80": {
-		"title": "obj_harvests_trees_pine02_p02"
+		"title": "物件_採集資源_樹木_pine02_p02"
 	},
 	"61f24d00-3d2d-44bf-818e-50a11c920aca": {
-		"title": "obj_harvests_trees_pine02_p03"
+		"title": "物件_採集資源_樹木_pine02_p03"
 	},
 	"1986c34b-c318-4992-ab1d-34a1531a4095": {
-		"title": "obj_harvests_trees_pine02_p04"
+		"title": "物件_採集資源_樹木_pine02_p04"
 	},
 	"aff3fcf0-9b67-42b5-bced-5acdf223c9aa": {
-		"title": "obj_harvests_trees_pine02_p05"
+		"title": "物件_採集資源_樹木_pine02_p05"
 	},
 	"6f89ff7b-f49d-4f6e-904a-5758c29b0d8e": {
-		"title": "obj_harvests_trees_pine02_p06"
+		"title": "物件_採集資源_樹木_pine02_p06"
 	},
 	"b2c6c47e-7443-4566-a194-d3f24435733d": {
-		"title": "obj_harvests_trees_pine02_p07"
+		"title": "物件_採集資源_樹木_pine02_p07"
 	},
 	"7a31b721-c944-4b40-ba71-c1b2e3f00b9c": {
-		"title": "obj_harvests_trees_pine02_p08"
+		"title": "物件_採集資源_樹木_pine02_p08"
 	},
 	"ca208216-99f0-43d1-900d-cb0924223b65": {
-		"title": "obj_harvests_trees_pine02_p09"
+		"title": "物件_採集資源_樹木_pine02_p09"
 	},
 	"8089b86c-7390-4cb6-b30e-7b281e8c329e": {
-		"title": "obj_harvests_trees_pine02_p10"
+		"title": "物件_採集資源_樹木_pine02_p10"
 	},
 	"737a5987-a586-4a06-9e9d-3661ab8d69d2": {
-		"title": "obj_harvests_trees_pine03_p00"
+		"title": "物件_採集資源_樹木_pine03_p00"
 	},
 	"8c0a32e1-50a4-4e23-be1d-a09d12fc65c1": {
-		"title": "obj_harvests_trees_pine03_p01"
+		"title": "物件_採集資源_樹木_pine03_p01"
 	},
 	"a20e79dd-d74e-4e10-845a-b101b3a95ab2": {
-		"title": "obj_harvests_trees_pine03_p02"
+		"title": "物件_採集資源_樹木_pine03_p02"
 	},
 	"e3bc44d7-2173-47c0-86c3-0a9348812692": {
-		"title": "obj_harvests_trees_pine03_p03"
+		"title": "物件_採集資源_樹木_pine03_p03"
 	},
 	"85a54457-4172-4be5-a750-96df4d40286c": {
-		"title": "obj_harvests_trees_pine03_p04"
+		"title": "物件_採集資源_樹木_pine03_p04"
 	},
 	"3f7c3f3c-9b28-4a26-abbd-8f2948e9b027": {
-		"title": "obj_harvests_trees_pine03_p05"
+		"title": "物件_採集資源_樹木_pine03_p05"
 	},
 	"8e2dfa65-c08e-4f51-a007-5fed80d846a3": {
-		"title": "obj_harvests_trees_pine03_p06"
+		"title": "物件_採集資源_樹木_pine03_p06"
 	},
 	"4f693e6e-7819-46ff-aef3-5cfd2fc5bbde": {
-		"title": "obj_harvests_trees_pine03_p07"
+		"title": "物件_採集資源_樹木_pine03_p07"
 	},
 	"0539121b-9588-4c64-bdd0-25b0a29b081a": {
-		"title": "obj_harvests_trees_pine03_p08"
+		"title": "物件_採集資源_樹木_pine03_p08"
 	},
 	"05c81c17-3780-4edb-80a4-1648c25ca460": {
-		"title": "obj_harvests_trees_pine03_p09"
+		"title": "物件_採集資源_樹木_pine03_p09"
 	},
 	"15ee8b4c-d58b-462f-a0a0-5c9bcdff495f": {
-		"title": "obj_harvests_trees_pine03_p10"
+		"title": "物件_採集資源_樹木_pine03_p10"
 	},
 	"69e362c3-32aa-4cd1-adc0-dcfc47b92c0d": {
 		"title": "輪胎"
@@ -2356,7 +2356,7 @@
 		"title": "金屬儲物支架"
 	},
 	"94acfb72-c650-4cb5-a8aa-08af3e691d2e": {
-		"title": "obj_warehouse_container2"
+		"title": "物件_倉庫_容器_2"
 	},
 	"66affe90-4552-455e-a0b0-b203f9988790": {
 		"title": "金屬儲物斜坡"
@@ -2443,12 +2443,12 @@
 		"title": "主開關",
 		"description": "輕輕一按，持續啟動。開關\n可以啟動與其連線的任何東\n西，如果你想要只需按一次\n來開關什麼東西，它會是不\n可或缺的零件。它可啟動引\n擎、推進器、控制器等等。"
 	},
-
-
-	"5cc12f03-275e-4c8e-b013-79fc0f913e1b": {
+	"8f190ce2-3a59-423e-8483-a7aa67bd5bc0": {
 		"title": "升降台",
-		"description": "在升降台上建造以防止你的\n作品被固定在地面上。可抬\n升或放低，也可以抬起翻覆\n的作品。"
-	},	
+		"description": "在升降台上創造不會被固定\n在地面上可以自由移動的結\n構。可抬升或放低，也可以\n抬起翻覆的作品。"
+	},
+
+
 	"ed185725-ea12-43fc-9cd7-4295d0dbf88b": {
 		"title": "大錘",
 		"description": "這把強有力的大錘可以讓你\n推動周圍的非固定物體。"
